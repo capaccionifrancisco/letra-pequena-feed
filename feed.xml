@@ -4,18 +4,18 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Letra Pequena</title>
+    <title>Letra Pequeña</title>
     <link>https://capaccionifrancisco.github.io/letra-pequena-feed</link>
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
-    <copyright>(c) 2026 Letra Pequena</copyright>
-    <lastBuildDate>Sat, 16 May 2026 13:43:52 +0000</lastBuildDate>
-    <description>Letra Pequena es el podcast diario que repasa la actualidad financiera que importa al inversor retail espanol. Mercados, banca central, datos macro y regulacion en menos de diez minutos, cada manana de lunes a viernes. Presentado por Marcos y Elena.</description>
-    <itunes:author>Letra Pequena</itunes:author>
-    <itunes:summary>Letra Pequena es el podcast diario que repasa la actualidad financiera que importa al inversor retail espanol. Mercados, banca central, datos macro y regulacion en menos de diez minutos, cada manana de lunes a viernes. Presentado por Marcos y Elena.</itunes:summary>
-    <itunes:subtitle>Tu portal de actualidad financiera, cada dia laborable.</itunes:subtitle>
+    <copyright>© 2026 Letra Pequeña</copyright>
+    <lastBuildDate>Sat, 16 May 2026 14:13:38 +0000</lastBuildDate>
+    <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
+    <itunes:author>Letra Pequeña</itunes:author>
+    <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
+    <itunes:subtitle>El primer podcast financiero AI-native en castellano.</itunes:subtitle>
     <itunes:owner>
-      <itunes:name>Letra Pequena</itunes:name>
+      <itunes:name>Letra Pequeña</itunes:name>
       <itunes:email>capaccionifrancisco@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
