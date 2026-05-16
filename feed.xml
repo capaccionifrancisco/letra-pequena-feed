@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Letra Pequena</title>
+    <description>Podcast diario de actualidad financiera. Feed en construccion.</description>
+    <language>es-ES</language>
+    <itunes:author>Letra Pequena</itunes:author>
+  </channel>
+</rss>
