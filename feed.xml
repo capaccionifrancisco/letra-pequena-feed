@@ -1,9 +1,45 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Letra Pequena</title>
-    <description>Podcast diario de actualidad financiera. Feed en construccion.</description>
+    <link>https://capaccionifrancisco.github.io/letra-pequena-feed</link>
+    <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
+    <copyright>(c) 2026 Letra Pequena</copyright>
+    <lastBuildDate>Sat, 16 May 2026 13:17:12 +0000</lastBuildDate>
+    <description>Letra Pequena es el podcast diario que repasa la actualidad financiera que importa al inversor retail espanol. Mercados, banca central, datos macro y regulacion en menos de diez minutos, cada manana de lunes a viernes. Presentado por Marcos y Elena.</description>
     <itunes:author>Letra Pequena</itunes:author>
+    <itunes:summary>Letra Pequena es el podcast diario que repasa la actualidad financiera que importa al inversor retail espanol. Mercados, banca central, datos macro y regulacion en menos de diez minutos, cada manana de lunes a viernes. Presentado por Marcos y Elena.</itunes:summary>
+    <itunes:subtitle>Tu portal de actualidad financiera, cada dia laborable.</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>Letra Pequena</itunes:name>
+      <itunes:email>capaccionifrancisco@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>El petróleo cerca de cien dólares hunde al Ibex dos días seguidos</title>
+      <itunes:title>El petróleo cerca de cien dólares hunde al Ibex dos días seguidos</itunes:title>
+      <itunes:subtitle>La inflación energética aprieta al BCE y complica las bajadas de tipos en junio</itunes:subtitle>
+      <description><![CDATA[<p>El Ibex cae un 1,70% hasta los 17.549 puntos, acumulando dos jornadas consecutivas de pérdidas superiores al 1,5%. El crudo americano roza los cien dólares y reaviva el miedo a la inflación, lo que aleja las expectativas de bajadas de tipos del Banco Central Europeo. La visita de Trump a China suma incertidumbre geopolítica sin aportar certezas al mercado. BBVA y Santander multiplican por seis sus recompras de acciones. Y la CNMV sanciona a dos figuras públicas por operar con información privilegiada, un recordatorio de los riesgos que asume el inversor minorista. Nuevo episodio cada día laborable.</p>]]></description>
+      <content:encoded><![CDATA[<p>El Ibex cae un 1,70% hasta los 17.549 puntos, acumulando dos jornadas consecutivas de pérdidas superiores al 1,5%. El crudo americano roza los cien dólares y reaviva el miedo a la inflación, lo que aleja las expectativas de bajadas de tipos del Banco Central Europeo. La visita de Trump a China suma incertidumbre geopolítica sin aportar certezas al mercado. BBVA y Santander multiplican por seis sus recompras de acciones. Y la CNMV sanciona a dos figuras públicas por operar con información privilegiada, un recordatorio de los riesgos que asume el inversor minorista. Nuevo episodio cada día laborable.</p>]]></content:encoded>
+      <itunes:summary>El Ibex cae un 1,70% hasta los 17.549 puntos, acumulando dos jornadas consecutivas de pérdidas superiores al 1,5%. El crudo americano roza los cien dólares y reaviva el miedo a la inflación, lo que aleja las expectativas de bajadas de tipos del Banco Central Europeo. La visita de Trump a China suma incertidumbre geopolítica sin aportar certezas al mercado. BBVA y Santander multiplican por seis sus recompras de acciones. Y la CNMV sanciona a dos figuras públicas por operar con información privilegiada, un recordatorio de los riesgos que asume el inversor minorista. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Fri, 15 May 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260515/letra-pequena-2026-05-15.mp3" length="10133235" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260515</guid>
+      <itunes:duration>06:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260515/portada_20260515.jpg"/>
+      <itunes:keywords>Ibex 35, precio del petróleo, inflación energética, Banco Central Europeo, tipos de interés, geopolítica Trump China, recompra de acciones banca, información privilegiada CNMV</itunes:keywords>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
