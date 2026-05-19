@@ -9,7 +9,7 @@
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
     <copyright>© 2026 Letra Pequeña</copyright>
-    <lastBuildDate>Tue, 19 May 2026 09:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 12:46:36 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
     <itunes:author>Letra Pequeña</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
@@ -50,9 +50,9 @@
 <p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#bonoamericano4,62% #tiposdeinterés #Ibex35 #Amadeusbajistas #IndraCEO</em></p>]]></content:encoded>
       <itunes:summary>El bono del Tesoro estadounidense a diez años lleva días en el 4,62%, niveles no vistos desde 2007, mientras los índices europeos siguen en cotas relativamente altas. Hoy analizamos esa desconexión, lo que implica para las valoraciones de renta variable y para carteras con valores como Amadeus o Aena. También repasamos la salida fulminante del CEO de Indra y lo que revela sobre su gobierno corporativo, la reorganización de marcas de Telefónica, y el papel del petróleo en la decisión del BCE. Mañana, actas del FOMC e inflación del Reino Unido marcarán el tono. Nuevo episodio cada día laborable.</itunes:summary>
       <pubDate>Tue, 19 May 2026 07:00:00 +0200</pubDate>
-      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260519/letra-pequena-2026-05-19-final.mp3" length="8491711" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260519-final</guid>
-      <itunes:duration>05:46</itunes:duration>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260519/letra-pequena-2026-05-19-num.mp3" length="8171346" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260519-num</guid>
+      <itunes:duration>05:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Letra Pequeña</itunes:author>
       <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
