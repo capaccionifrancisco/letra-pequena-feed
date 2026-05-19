@@ -8,14 +8,14 @@
     <link>https://capaccionifrancisco.github.io/letra-pequena-feed</link>
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
-    <copyright>© 2026 Letra Pequeña</copyright>
-    <lastBuildDate>Sat, 16 May 2026 16:31:17 +0000</lastBuildDate>
+    <copyright>(c) 2026 Letra Pequena</copyright>
+    <lastBuildDate>Tue, 19 May 2026 07:20:18 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
-    <itunes:author>Letra Pequeña</itunes:author>
+    <itunes:author>Letra Pequena</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
     <itunes:subtitle>El primer podcast financiero AI-native en castellano.</itunes:subtitle>
     <itunes:owner>
-      <itunes:name>Letra Pequeña</itunes:name>
+      <itunes:name>Letra Pequena</itunes:name>
       <itunes:email>capaccionifrancisco@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
@@ -25,39 +25,38 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
-      <title>El petróleo supera los 100 dólares y frena al BCE</title>
-      <itunes:title>El petróleo supera los 100 dólares y frena al BCE</itunes:title>
-      <itunes:subtitle>El Ibex pierde un 1,5% en la semana mientras la inflación energética complica las bajadas de tipos.</itunes:subtitle>
-      <description><![CDATA[<p>El crudo americano ha superado los 101 dólares por barril, su nivel más alto en meses, arrastrando al Ibex 35 a una pérdida semanal del 1,5%. La volatilidad sube y el sentimiento inversor se instala en territorio de miedo. Analizamos cómo este repunte energético puede frenar las bajadas de tipos del Banco Central Europeo y retrasar el alivio en las hipotecas variables de millones de familias españolas. Además, la CNMV sanciona a Gerard Piqué y José Elías con 300.000 euros cada uno por uso de información privilegiada, y las nuevas sanciones de Estados Unidos contra Cuba amenazan a empresas españolas con presencia en la isla. Nuevo episodio cada día laborable.</p>
+      <title>El bono americano en máximos de 2007 presiona a las bolsas</title>
+      <itunes:title>El bono americano en máximos de 2007 presiona a las bolsas</itunes:title>
+      <itunes:subtitle>Actas de la Fed y BCE mañana, sanción a Piqué y crisis en Indra</itunes:subtitle>
+      <description><![CDATA[<p>El bono del Tesoro americano a diez años alcanza el 4,62%, niveles no vistos desde 2007, y provoca rotación de activos desde la renta variable hacia la renta fija. El Ibex rebota levemente hasta los 17.755 puntos, pero la presión estructural persiste con el índice de miedo extremo en 25. Mañana se publican las actas del FOMC y se celebra una reunión del BCE, dos eventos que pueden mover los mercados en horas. Además, la CNMV sanciona a Gerard Piqué y José Elías por uso de información privilegiada, e Indra pierde a su consejero delegado tras solo mes y medio en el cargo. Nuevo episodio cada día laborable.</p>
 <p><strong>Bloques del episodio</strong></p>
 <ul>
-  <li><strong>0:12</strong> &mdash; El Ibex cede un 1,5% en la semana</li>
-  <li><strong>1:53</strong> &mdash; El petróleo supera los 101 dólares</li>
-  <li><strong>1:53</strong> &mdash; Sanciones de EEUU a Cuba y el riesgo para empresas españolas</li>
-  <li><strong>3:07</strong> &mdash; BCE, tipos y el Euríbor hipotecario</li>
-  <li><strong>4:10</strong> &mdash; CNMV sanciona a Piqué y Elías por insider trading</li>
+  <li><strong>0:24</strong> &mdash; Bono americano al 4,62% y presión sobre las bolsas</li>
+  <li><strong>2:53</strong> &mdash; Actas del FOMC: el mercado descifra a la Fed</li>
+  <li><strong>4:04</strong> &mdash; Reunión del BCE y el futuro del Euríbor</li>
+  <li><strong>5:15</strong> &mdash; CNMV sanciona a Piqué y Elías por información privilegiada</li>
+  <li><strong>6:12</strong> &mdash; Indra pierde a su consejero delegado en mes y medio</li>
 </ul>
-<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#Ibex35 #petróleo #BancoCentralEuropeo #tiposdeinterés #Euríbor</em></p>]]></description>
-      <content:encoded><![CDATA[<p>El crudo americano ha superado los 101 dólares por barril, su nivel más alto en meses, arrastrando al Ibex 35 a una pérdida semanal del 1,5%. La volatilidad sube y el sentimiento inversor se instala en territorio de miedo. Analizamos cómo este repunte energético puede frenar las bajadas de tipos del Banco Central Europeo y retrasar el alivio en las hipotecas variables de millones de familias españolas. Además, la CNMV sanciona a Gerard Piqué y José Elías con 300.000 euros cada uno por uso de información privilegiada, y las nuevas sanciones de Estados Unidos contra Cuba amenazan a empresas españolas con presencia en la isla. Nuevo episodio cada día laborable.</p>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#bonoamericano #ReservaFederal #BCEtipos #Ibex35 #informaciónprivilegiadaCNMV</em></p>]]></description>
+      <content:encoded><![CDATA[<p>El bono del Tesoro americano a diez años alcanza el 4,62%, niveles no vistos desde 2007, y provoca rotación de activos desde la renta variable hacia la renta fija. El Ibex rebota levemente hasta los 17.755 puntos, pero la presión estructural persiste con el índice de miedo extremo en 25. Mañana se publican las actas del FOMC y se celebra una reunión del BCE, dos eventos que pueden mover los mercados en horas. Además, la CNMV sanciona a Gerard Piqué y José Elías por uso de información privilegiada, e Indra pierde a su consejero delegado tras solo mes y medio en el cargo. Nuevo episodio cada día laborable.</p>
 <p><strong>Bloques del episodio</strong></p>
 <ul>
-  <li><strong>0:12</strong> &mdash; El Ibex cede un 1,5% en la semana</li>
-  <li><strong>1:53</strong> &mdash; El petróleo supera los 101 dólares</li>
-  <li><strong>1:53</strong> &mdash; Sanciones de EEUU a Cuba y el riesgo para empresas españolas</li>
-  <li><strong>3:07</strong> &mdash; BCE, tipos y el Euríbor hipotecario</li>
-  <li><strong>4:10</strong> &mdash; CNMV sanciona a Piqué y Elías por insider trading</li>
+  <li><strong>0:24</strong> &mdash; Bono americano al 4,62% y presión sobre las bolsas</li>
+  <li><strong>2:53</strong> &mdash; Actas del FOMC: el mercado descifra a la Fed</li>
+  <li><strong>4:04</strong> &mdash; Reunión del BCE y el futuro del Euríbor</li>
+  <li><strong>5:15</strong> &mdash; CNMV sanciona a Piqué y Elías por información privilegiada</li>
+  <li><strong>6:12</strong> &mdash; Indra pierde a su consejero delegado en mes y medio</li>
 </ul>
-<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#Ibex35 #petróleo #BancoCentralEuropeo #tiposdeinterés #Euríbor</em></p>]]></content:encoded>
-      <itunes:summary>El crudo americano ha superado los 101 dólares por barril, su nivel más alto en meses, arrastrando al Ibex 35 a una pérdida semanal del 1,5%. La volatilidad sube y el sentimiento inversor se instala en territorio de miedo. Analizamos cómo este repunte energético puede frenar las bajadas de tipos del Banco Central Europeo y retrasar el alivio en las hipotecas variables de millones de familias españolas. Además, la CNMV sanciona a Gerard Piqué y José Elías con 300.000 euros cada uno por uso de información privilegiada, y las nuevas sanciones de Estados Unidos contra Cuba amenazan a empresas españolas con presencia en la isla. Nuevo episodio cada día laborable.</itunes:summary>
-      <pubDate>Sat, 16 May 2026 07:00:00 +0200</pubDate>
-      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260516/letra-pequena-2026-05-16.mp3" length="15629487" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260516</guid>
-      <itunes:duration>10:43</itunes:duration>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#bonoamericano #ReservaFederal #BCEtipos #Ibex35 #informaciónprivilegiadaCNMV</em></p>]]></content:encoded>
+      <itunes:summary>El bono del Tesoro americano a diez años alcanza el 4,62%, niveles no vistos desde 2007, y provoca rotación de activos desde la renta variable hacia la renta fija. El Ibex rebota levemente hasta los 17.755 puntos, pero la presión estructural persiste con el índice de miedo extremo en 25. Mañana se publican las actas del FOMC y se celebra una reunión del BCE, dos eventos que pueden mover los mercados en horas. Además, la CNMV sanciona a Gerard Piqué y José Elías por uso de información privilegiada, e Indra pierde a su consejero delegado tras solo mes y medio en el cargo. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Tue, 19 May 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260519/letra-pequena-2026-05-19.mp3" length="14040743" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260519</guid>
+      <itunes:duration>09:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequeña</itunes:author>
+      <itunes:author>Letra Pequena</itunes:author>
       <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
-      <itunes:keywords>Ibex 35, petróleo, Banco Central Europeo, tipos de interés, Euríbor, información privilegiada, CNMV, inflación energética</itunes:keywords>
-      <itunes:episode>2</itunes:episode>
+      <itunes:keywords>bono americano, Reserva Federal, BCE tipos, Ibex 35, información privilegiada CNMV, Indra consejero delegado, renta fija, Euríbor hipotecas</itunes:keywords>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
