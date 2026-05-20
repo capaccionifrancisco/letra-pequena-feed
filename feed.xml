@@ -8,14 +8,14 @@
     <link>https://capaccionifrancisco.github.io/letra-pequena-feed</link>
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
-    <copyright>(c) 2026 Letra Pequena</copyright>
-    <lastBuildDate>Wed, 20 May 2026 12:00:00 +0000</lastBuildDate>
+    <copyright>© 2026 Letra Pequeña</copyright>
+    <lastBuildDate>Wed, 20 May 2026 17:55:55 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
-    <itunes:author>Letra Pequena</itunes:author>
+    <itunes:author>Letra Pequeña</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
     <itunes:subtitle>El primer podcast financiero AI-native en castellano.</itunes:subtitle>
     <itunes:owner>
-      <itunes:name>Letra Pequena</itunes:name>
+      <itunes:name>Letra Pequeña</itunes:name>
       <itunes:email>capaccionifrancisco@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
@@ -24,5 +24,41 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>El petróleo se desploma y el Ibex rebota ante NVIDIA</title>
+      <itunes:title>El petróleo se desploma y el Ibex rebota ante NVIDIA</itunes:title>
+      <itunes:subtitle>Un día de tres piezas que apuntan al mismo fondo: ¿queda recorrido en el ciclo?</itunes:subtitle>
+      <description><![CDATA[<p>El crudo americano cae un 6,5% tras señales de avance en las negociaciones entre Estados Unidos e Irán, y el Ibex recupera los 18.000 puntos. Pero el rebote tiene letra pequeña: el dinero institucional abandona Europa y rota hacia Wall Street, y el sentimiento de fondo sigue en territorio de miedo. Esta noche NVIDIA publica resultados, el termómetro más importante del ciclo de inteligencia artificial. Analizamos también las actas de la Reserva Federal, el acuerdo arancelario UE-EE.UU. con fecha de caducidad en 2029 y lo que vigilar mañana en los PMIs europeos. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:12</strong> &mdash; El Ibex recupera los 18.000 puntos</li>
+  <li><strong>0:12</strong> &mdash; NVIDIA y el ciclo de inteligencia artificial</li>
+  <li><strong>1:24</strong> &mdash; El desplome del petróleo y sus consecuencias</li>
+  <li><strong>3:03</strong> &mdash; Claves para mañana: PMIs europeos y bonos</li>
+  <li><strong>8:00</strong> &mdash; Actas de la Fed y acuerdo arancelario UE-EE.UU.</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#petróleo #Ibex18000 #NVIDIAresultados #ReservaFederalactas #inteligenciaartificialbolsa</em></p>]]></description>
+      <content:encoded><![CDATA[<p>El crudo americano cae un 6,5% tras señales de avance en las negociaciones entre Estados Unidos e Irán, y el Ibex recupera los 18.000 puntos. Pero el rebote tiene letra pequeña: el dinero institucional abandona Europa y rota hacia Wall Street, y el sentimiento de fondo sigue en territorio de miedo. Esta noche NVIDIA publica resultados, el termómetro más importante del ciclo de inteligencia artificial. Analizamos también las actas de la Reserva Federal, el acuerdo arancelario UE-EE.UU. con fecha de caducidad en 2029 y lo que vigilar mañana en los PMIs europeos. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:12</strong> &mdash; El Ibex recupera los 18.000 puntos</li>
+  <li><strong>0:12</strong> &mdash; NVIDIA y el ciclo de inteligencia artificial</li>
+  <li><strong>1:24</strong> &mdash; El desplome del petróleo y sus consecuencias</li>
+  <li><strong>3:03</strong> &mdash; Claves para mañana: PMIs europeos y bonos</li>
+  <li><strong>8:00</strong> &mdash; Actas de la Fed y acuerdo arancelario UE-EE.UU.</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#petróleo #Ibex18000 #NVIDIAresultados #ReservaFederalactas #inteligenciaartificialbolsa</em></p>]]></content:encoded>
+      <itunes:summary>El crudo americano cae un 6,5% tras señales de avance en las negociaciones entre Estados Unidos e Irán, y el Ibex recupera los 18.000 puntos. Pero el rebote tiene letra pequeña: el dinero institucional abandona Europa y rota hacia Wall Street, y el sentimiento de fondo sigue en territorio de miedo. Esta noche NVIDIA publica resultados, el termómetro más importante del ciclo de inteligencia artificial. Analizamos también las actas de la Reserva Federal, el acuerdo arancelario UE-EE.UU. con fecha de caducidad en 2029 y lo que vigilar mañana en los PMIs europeos. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Wed, 20 May 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260520/letra-pequena-2026-05-20.mp3" length="17890198" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260520</guid>
+      <itunes:duration>12:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequeña</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
+      <itunes:keywords>petróleo, Ibex 18000, NVIDIA resultados, Reserva Federal actas, inteligencia artificial bolsa, acuerdo arancelario UE, ciclo de riesgo mercados</itunes:keywords>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
