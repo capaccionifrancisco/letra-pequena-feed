@@ -8,14 +8,14 @@
     <link>https://capaccionifrancisco.github.io/letra-pequena-feed</link>
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
-    <copyright>© 2026 Letra Pequeña</copyright>
-    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
+    <copyright>(c) 2026 Letra Pequena</copyright>
+    <lastBuildDate>Thu, 21 May 2026 10:44:07 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
-    <itunes:author>Letra Pequeña</itunes:author>
+    <itunes:author>Letra Pequena</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
     <itunes:subtitle>El primer podcast financiero AI-native en castellano.</itunes:subtitle>
     <itunes:owner>
-      <itunes:name>Letra Pequeña</itunes:name>
+      <itunes:name>Letra Pequena</itunes:name>
       <itunes:email>capaccionifrancisco@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
@@ -24,6 +24,40 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
+    <item>
+      <title>El Ibex rebota con Nvidia pero el oro no baja la guardia</title>
+      <itunes:title>El Ibex rebota con Nvidia pero el oro no baja la guardia</itunes:title>
+      <itunes:subtitle>Los PMIs flash y el petróleo a 100 dólares complican la lectura del día</itunes:subtitle>
+      <description><![CDATA[<p>El Ibex sube un 2,64% tras los resultados de Nvidia, pero tres señales contradicen la euforia: el bono americano se relaja sin convencer, el oro supera los 4.500 dólares y el Fear and Greed Index sigue en zona de miedo. Analizamos los PMIs flash de Alemania, Francia y Estados Unidos, decisivos para las reuniones del BCE y la Fed en junio. En España, Bruselas revisa al alza el crecimiento hasta el 2,4%, pero con el petróleo caro ya incorporado como base. Y en Indra, el 14,3% vendido por los Escribano sigue sin accionista identificable. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:30</strong> &mdash; Rebote del Ibex y señales contradictorias del mercado</li>
+  <li><strong>0:55</strong> &mdash; España: crecimiento al 2,4% pero con el petróleo caro como base</li>
+  <li><strong>1:46</strong> &mdash; PMIs flash: la clave para BCE y Fed en junio</li>
+  <li><strong>3:09</strong> &mdash; Indra: el 14,3% de los Escribano sigue sin dueño identificable</li>
+  <li><strong>3:34</strong> &mdash; SpaceX y OpenAI: las OPVs que mueven el capital institucional</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#Ibex35 #Nvidiaresultados #bonoamericano #PMIflash #BCEtiposjunio</em></p>]]></description>
+      <content:encoded><![CDATA[<p>El Ibex sube un 2,64% tras los resultados de Nvidia, pero tres señales contradicen la euforia: el bono americano se relaja sin convencer, el oro supera los 4.500 dólares y el Fear and Greed Index sigue en zona de miedo. Analizamos los PMIs flash de Alemania, Francia y Estados Unidos, decisivos para las reuniones del BCE y la Fed en junio. En España, Bruselas revisa al alza el crecimiento hasta el 2,4%, pero con el petróleo caro ya incorporado como base. Y en Indra, el 14,3% vendido por los Escribano sigue sin accionista identificable. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:30</strong> &mdash; Rebote del Ibex y señales contradictorias del mercado</li>
+  <li><strong>0:55</strong> &mdash; España: crecimiento al 2,4% pero con el petróleo caro como base</li>
+  <li><strong>1:46</strong> &mdash; PMIs flash: la clave para BCE y Fed en junio</li>
+  <li><strong>3:09</strong> &mdash; Indra: el 14,3% de los Escribano sigue sin dueño identificable</li>
+  <li><strong>3:34</strong> &mdash; SpaceX y OpenAI: las OPVs que mueven el capital institucional</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#Ibex35 #Nvidiaresultados #bonoamericano #PMIflash #BCEtiposjunio</em></p>]]></content:encoded>
+      <itunes:summary>El Ibex sube un 2,64% tras los resultados de Nvidia, pero tres señales contradicen la euforia: el bono americano se relaja sin convencer, el oro supera los 4.500 dólares y el Fear and Greed Index sigue en zona de miedo. Analizamos los PMIs flash de Alemania, Francia y Estados Unidos, decisivos para las reuniones del BCE y la Fed en junio. En España, Bruselas revisa al alza el crecimiento hasta el 2,4%, pero con el petróleo caro ya incorporado como base. Y en Indra, el 14,3% vendido por los Escribano sigue sin accionista identificable. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Thu, 21 May 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260521/letra-pequena-2026-05-21.mp3" length="7734324" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260521</guid>
+      <itunes:duration>05:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
+      <itunes:keywords>Ibex 35, Nvidia resultados, bono americano, PMI flash, BCE tipos junio, petróleo 100 dólares, oro refugio, Indra accionariado</itunes:keywords>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
