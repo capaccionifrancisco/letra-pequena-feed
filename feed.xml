@@ -8,14 +8,14 @@
     <link>https://capaccionifrancisco.github.io/letra-pequena-feed</link>
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
-    <copyright>(c) 2026 Letra Pequena</copyright>
-    <lastBuildDate>Tue, 26 May 2026 15:34:08 +0000</lastBuildDate>
+    <copyright>© 2026 Letra Pequeña</copyright>
+    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
-    <itunes:author>Letra Pequena</itunes:author>
+    <itunes:author>Letra Pequeña</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
     <itunes:subtitle>El primer podcast financiero AI-native en castellano.</itunes:subtitle>
     <itunes:owner>
-      <itunes:name>Letra Pequena</itunes:name>
+      <itunes:name>Letra Pequeña</itunes:name>
       <itunes:email>capaccionifrancisco@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
@@ -24,55 +24,6 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>El Ibex sube con cautela mientras el petróleo cae por alivio geopolítico</title>
-      <itunes:title>El Ibex sube con cautela mientras el petróleo cae por alivio geopolítico</itunes:title>
-      <itunes:subtitle>Negociaciones de paz en Oriente Medio impulsan bolsa española, pero el mercado mantiene coberturas</itunes:subtitle>
-      <description><![CDATA[<p>El Ibex cierra con subida del 1,67% impulsado por la caída del petróleo, que baja un 2,35% por expectativas de acuerdo en Irán. Analizamos cómo ese alivio geopolítico afecta a hipotecas, dividendos y la decisión del BCE de junio. Además: la OPA de BBVA sobre Sabadell, Ferrari y el eléctrico, cambios en Indra, reforma de jubilación para autónomos, y los tres focos que van a mover mercados hasta el viernes. Nuevo episodio cada día laborable.</p>
-<p><strong>Bloques del episodio</strong></p>
-<ul>
-  <li><strong>0:12</strong> &mdash; Movimiento del Ibex y caída del petróleo</li>
-  <li><strong>0:49</strong> &mdash; Implicaciones para el BCE y las hipotecas</li>
-  <li><strong>1:08</strong> &mdash; Señales de cautela en mercados globales</li>
-  <li><strong>1:27</strong> &mdash; OPA de BBVA sobre Sabadell y dividendos extraordinarios</li>
-  <li><strong>1:27</strong> &mdash; OPVs tecnológicas y acceso retail: SpaceX y el modelo español</li>
-  <li><strong>1:44</strong> &mdash; Criptomonedas y riesgo especulativo</li>
-  <li><strong>1:56</strong> &mdash; Ferrari, el eléctrico y la erosión de ventajas competitivas</li>
-  <li><strong>2:00</strong> &mdash; Divisas y oro: señales de desconfianza estructural</li>
-  <li><strong>2:07</strong> &mdash; Regulación: Polymarket y Kalshi bloqueadas en España</li>
-  <li><strong>2:34</strong> &mdash; Reforma de jubilación flexible para autónomos</li>
-  <li><strong>3:08</strong> &mdash; Cambios en Indra: gobernanza y continuidad estratégica</li>
-  <li><strong>3:11</strong> &mdash; Calendario de riesgos: Lane-Schnabel, PCE-PIB y IPC alemán</li>
-</ul>
-<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#Ibex35 #petróleoWTI #BCEjunio #BBVASabadell #Euríborhipotecas</em></p>]]></description>
-      <content:encoded><![CDATA[<p>El Ibex cierra con subida del 1,67% impulsado por la caída del petróleo, que baja un 2,35% por expectativas de acuerdo en Irán. Analizamos cómo ese alivio geopolítico afecta a hipotecas, dividendos y la decisión del BCE de junio. Además: la OPA de BBVA sobre Sabadell, Ferrari y el eléctrico, cambios en Indra, reforma de jubilación para autónomos, y los tres focos que van a mover mercados hasta el viernes. Nuevo episodio cada día laborable.</p>
-<p><strong>Bloques del episodio</strong></p>
-<ul>
-  <li><strong>0:12</strong> &mdash; Movimiento del Ibex y caída del petróleo</li>
-  <li><strong>0:49</strong> &mdash; Implicaciones para el BCE y las hipotecas</li>
-  <li><strong>1:08</strong> &mdash; Señales de cautela en mercados globales</li>
-  <li><strong>1:27</strong> &mdash; OPA de BBVA sobre Sabadell y dividendos extraordinarios</li>
-  <li><strong>1:27</strong> &mdash; OPVs tecnológicas y acceso retail: SpaceX y el modelo español</li>
-  <li><strong>1:44</strong> &mdash; Criptomonedas y riesgo especulativo</li>
-  <li><strong>1:56</strong> &mdash; Ferrari, el eléctrico y la erosión de ventajas competitivas</li>
-  <li><strong>2:00</strong> &mdash; Divisas y oro: señales de desconfianza estructural</li>
-  <li><strong>2:07</strong> &mdash; Regulación: Polymarket y Kalshi bloqueadas en España</li>
-  <li><strong>2:34</strong> &mdash; Reforma de jubilación flexible para autónomos</li>
-  <li><strong>3:08</strong> &mdash; Cambios en Indra: gobernanza y continuidad estratégica</li>
-  <li><strong>3:11</strong> &mdash; Calendario de riesgos: Lane-Schnabel, PCE-PIB y IPC alemán</li>
-</ul>
-<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#Ibex35 #petróleoWTI #BCEjunio #BBVASabadell #Euríborhipotecas</em></p>]]></content:encoded>
-      <itunes:summary>El Ibex cierra con subida del 1,67% impulsado por la caída del petróleo, que baja un 2,35% por expectativas de acuerdo en Irán. Analizamos cómo ese alivio geopolítico afecta a hipotecas, dividendos y la decisión del BCE de junio. Además: la OPA de BBVA sobre Sabadell, Ferrari y el eléctrico, cambios en Indra, reforma de jubilación para autónomos, y los tres focos que van a mover mercados hasta el viernes. Nuevo episodio cada día laborable.</itunes:summary>
-      <pubDate>Tue, 26 May 2026 07:00:00 +0200</pubDate>
-      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260526/letra-pequena-2026-05-26.mp3" length="42355591" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260526</guid>
-      <itunes:duration>29:17</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequena</itunes:author>
-      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
-      <itunes:keywords>Ibex 35, petróleo WTI, BCE junio, BBVA Sabadell, Euríbor hipotecas, inflación servicios, dividendos Ibex</itunes:keywords>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
+
   </channel>
 </rss>
