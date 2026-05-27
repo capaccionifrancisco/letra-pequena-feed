@@ -8,14 +8,14 @@
     <link>https://capaccionifrancisco.github.io/letra-pequena-feed</link>
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
-    <copyright>(c) 2026 Letra Pequena</copyright>
-    <lastBuildDate>Wed, 27 May 2026 09:54:28 +0000</lastBuildDate>
+    <copyright>© 2026 Letra Pequeña</copyright>
+    <lastBuildDate>Wed, 27 May 2026 10:11:16 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
-    <itunes:author>Letra Pequena</itunes:author>
+    <itunes:author>Letra Pequeña</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
     <itunes:subtitle>El primer podcast financiero AI-native en castellano.</itunes:subtitle>
     <itunes:owner>
-      <itunes:name>Letra Pequena</itunes:name>
+      <itunes:name>Letra Pequeña</itunes:name>
       <itunes:email>capaccionifrancisco@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
@@ -25,45 +25,151 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
-      <title>La semana del precio del dinero: Warsh, bonos y el reordenamiento global</title>
-      <itunes:title>La semana del precio del dinero: Warsh, bonos y el reordenamiento global</itunes:title>
-      <itunes:subtitle>Kevin Warsh llega a la Fed mientras los bonos americanos presionan y Europa anticipa bajadas de tipos</itunes:subtitle>
-      <description><![CDATA[<p>Una semana sin datos oficiales, pero llena de movimientos estructurales. Kevin Warsh jura como presidente de la Reserva Federal en un contexto de déficit fiscal elevado y presión política. El bono americano a diez años sube al 4,62%, reflejando expectativas de tipos altos. En Europa, el Banco Central Europeo mantiene viva la posibilidad de bajar tipos en junio, lo que beneficia al Ibex y al euríbor. Analizamos las implicaciones de SpaceX y OpenAI en bolsa, la sanción de la CNMV a Piqué, y por qué la composición sectorial del Ibex es crucial para entender lo que viene. Nuevo episodio cada día laborable.</p>
+      <title>El Banco Central Europeo advierte de vulnerabilidades elevadas en el sistema financiero</title>
+      <itunes:title>El Banco Central Europeo advierte de vulnerabilidades elevadas en el sistema financiero</itunes:title>
+      <itunes:subtitle>El shock energético de Oriente Medio presiona la inflación y complica el ciclo de bajadas de tipos</itunes:subtitle>
+      <description><![CDATA[<p>El Banco Central Europeo publica su revisión semestral de estabilidad financiera con un mensaje claro: las vulnerabilidades del sistema permanecen elevadas. El conflicto en Oriente Medio presiona los precios de la energía, complicando la política monetaria en un momento de reactivación del crédito hipotecario español en máximos de quince años. Analizamos el impacto en bancos, renta fija y carteras de inversores minoristas, mientras el mercado espera las decisiones del once de junio. Nuevo episodio cada día laborable.</p>
 <p><strong>Bloques del episodio</strong></p>
 <ul>
-  <li><strong>0:12</strong> &mdash; Rigor editorial y el material del día</li>
-  <li><strong>0:23</strong> &mdash; Europa diverge de Estados Unidos: oportunidad para el Ibex</li>
-  <li><strong>0:46</strong> &mdash; Kevin Warsh y la Reserva Federal: el factor clave</li>
-  <li><strong>0:46</strong> &mdash; El mercado de bonos como termómetro económico</li>
-  <li><strong>6:16</strong> &mdash; SpaceX, OpenAI y las grandes salidas a bolsa tecnológicas</li>
-  <li><strong>9:25</strong> &mdash; Sanción de la CNMV a Piqué: confianza en el mercado</li>
-  <li><strong>10:38</strong> &mdash; Euríbor a la baja: hipotecas y depósitos</li>
-  <li><strong>12:47</strong> &mdash; Lo que vigilar en los próximos días</li>
+  <li><strong>0:12</strong> &mdash; El informe de estabilidad financiera del BCE</li>
+  <li><strong>0:12</strong> &mdash; El impacto del shock energético en Europa</li>
+  <li><strong>0:12</strong> &mdash; La posición incómoda del Banco Central Europeo</li>
+  <li><strong>1:32</strong> &mdash; Los tres niveles de riesgo sistémico identificados</li>
+  <li><strong>2:01</strong> &mdash; CVC cierra su salida de Naturgy y reactivación hipotecaria récord</li>
+  <li><strong>3:26</strong> &mdash; Cambio de liderazgo en Indra y multa por información privilegiada</li>
+  <li><strong>5:18</strong> &mdash; Mercados globales y señales de mañana</li>
 </ul>
-<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#KevinWarsh #ReservaFederal #bonosamericanos #tiposdeinterés #BancoCentralEuropeo</em></p>]]></description>
-      <content:encoded><![CDATA[<p>Una semana sin datos oficiales, pero llena de movimientos estructurales. Kevin Warsh jura como presidente de la Reserva Federal en un contexto de déficit fiscal elevado y presión política. El bono americano a diez años sube al 4,62%, reflejando expectativas de tipos altos. En Europa, el Banco Central Europeo mantiene viva la posibilidad de bajar tipos en junio, lo que beneficia al Ibex y al euríbor. Analizamos las implicaciones de SpaceX y OpenAI en bolsa, la sanción de la CNMV a Piqué, y por qué la composición sectorial del Ibex es crucial para entender lo que viene. Nuevo episodio cada día laborable.</p>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #estabilidadfinanciera #shockenergético #políticamonetaria #créditohipotecario</em></p>]]></description>
+      <content:encoded><![CDATA[<p>El Banco Central Europeo publica su revisión semestral de estabilidad financiera con un mensaje claro: las vulnerabilidades del sistema permanecen elevadas. El conflicto en Oriente Medio presiona los precios de la energía, complicando la política monetaria en un momento de reactivación del crédito hipotecario español en máximos de quince años. Analizamos el impacto en bancos, renta fija y carteras de inversores minoristas, mientras el mercado espera las decisiones del once de junio. Nuevo episodio cada día laborable.</p>
 <p><strong>Bloques del episodio</strong></p>
 <ul>
-  <li><strong>0:12</strong> &mdash; Rigor editorial y el material del día</li>
-  <li><strong>0:23</strong> &mdash; Europa diverge de Estados Unidos: oportunidad para el Ibex</li>
-  <li><strong>0:46</strong> &mdash; Kevin Warsh y la Reserva Federal: el factor clave</li>
-  <li><strong>0:46</strong> &mdash; El mercado de bonos como termómetro económico</li>
-  <li><strong>6:16</strong> &mdash; SpaceX, OpenAI y las grandes salidas a bolsa tecnológicas</li>
-  <li><strong>9:25</strong> &mdash; Sanción de la CNMV a Piqué: confianza en el mercado</li>
-  <li><strong>10:38</strong> &mdash; Euríbor a la baja: hipotecas y depósitos</li>
-  <li><strong>12:47</strong> &mdash; Lo que vigilar en los próximos días</li>
+  <li><strong>0:12</strong> &mdash; El informe de estabilidad financiera del BCE</li>
+  <li><strong>0:12</strong> &mdash; El impacto del shock energético en Europa</li>
+  <li><strong>0:12</strong> &mdash; La posición incómoda del Banco Central Europeo</li>
+  <li><strong>1:32</strong> &mdash; Los tres niveles de riesgo sistémico identificados</li>
+  <li><strong>2:01</strong> &mdash; CVC cierra su salida de Naturgy y reactivación hipotecaria récord</li>
+  <li><strong>3:26</strong> &mdash; Cambio de liderazgo en Indra y multa por información privilegiada</li>
+  <li><strong>5:18</strong> &mdash; Mercados globales y señales de mañana</li>
 </ul>
-<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#KevinWarsh #ReservaFederal #bonosamericanos #tiposdeinterés #BancoCentralEuropeo</em></p>]]></content:encoded>
-      <itunes:summary>Una semana sin datos oficiales, pero llena de movimientos estructurales. Kevin Warsh jura como presidente de la Reserva Federal en un contexto de déficit fiscal elevado y presión política. El bono americano a diez años sube al 4,62%, reflejando expectativas de tipos altos. En Europa, el Banco Central Europeo mantiene viva la posibilidad de bajar tipos en junio, lo que beneficia al Ibex y al euríbor. Analizamos las implicaciones de SpaceX y OpenAI en bolsa, la sanción de la CNMV a Piqué, y por qué la composición sectorial del Ibex es crucial para entender lo que viene. Nuevo episodio cada día laborable.</itunes:summary>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #estabilidadfinanciera #shockenergético #políticamonetaria #créditohipotecario</em></p>]]></content:encoded>
+      <itunes:summary>El Banco Central Europeo publica su revisión semestral de estabilidad financiera con un mensaje claro: las vulnerabilidades del sistema permanecen elevadas. El conflicto en Oriente Medio presiona los precios de la energía, complicando la política monetaria en un momento de reactivación del crédito hipotecario español en máximos de quince años. Analizamos el impacto en bancos, renta fija y carteras de inversores minoristas, mientras el mercado espera las decisiones del once de junio. Nuevo episodio cada día laborable.</itunes:summary>
       <pubDate>Wed, 27 May 2026 07:00:00 +0200</pubDate>
-      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260527/letra-pequena-2026-05-27.mp3" length="22384087" type="audio/mpeg"/>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260527/letra-pequena-2026-05-27.mp3" length="42608962" type="audio/mpeg"/>
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260527</guid>
-      <itunes:duration>15:24</itunes:duration>
+      <itunes:duration>29:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:author>Letra Pequeña</itunes:author>
       <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
-      <itunes:keywords>Kevin Warsh, Reserva Federal, bonos americanos, tipos de interés, Banco Central Europeo, euríbor, Ibex</itunes:keywords>
+      <itunes:keywords>Banco Central Europeo, estabilidad financiera, shock energético, política monetaria, crédito hipotecario, bancos españoles, tipos de interés</itunes:keywords>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Warsh toma la Fed y Puig se desploma en bolsa</title>
+      <itunes:title>Warsh toma la Fed y Puig se desploma en bolsa</itunes:title>
+      <itunes:subtitle>Tipos altos en EE.UU., caída histórica de Puig y SpaceX prepara su salida a bolsa</itunes:subtitle>
+      <description><![CDATA[<p>Kevin Warsh jura el cargo como nuevo presidente de la Reserva Federal con Trump al fondo y el bono americano a diez años en el 4,56%. Su perfil de halcón amenaza con mantener los tipos altos más tiempo del previsto, con consecuencias directas para la renta fija y la renta variable global. En España, Puig se desploma un 13% tras romperse las negociaciones de fusión con Estée Lauder, mientras Santander enfrenta presión política en Washington por su compra de Webster Bank. Además, SpaceX publica su folleto de salida a bolsa con 4.200 millones de pérdidas. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:30</strong> &mdash; Kevin Warsh jura como presidente de la Fed</li>
+  <li><strong>1:31</strong> &mdash; Santander bajo presión en EE.UU. y SpaceX en bolsa</li>
+  <li><strong>2:38</strong> &mdash; Ibex en 17.985 puntos: subida sin convicción</li>
+  <li><strong>3:44</strong> &mdash; Puig se desploma un 13%: se rompe la fusión con Estée Lauder</li>
+  <li><strong>7:36</strong> &mdash; Macro de cierre: petróleo, oro, dólar y BCE en junio</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#ReservaFederal #KevinWarsh #tiposdeinterés #Puigbolsa #EstéeLauder</em></p>]]></description>
+      <content:encoded><![CDATA[<p>Kevin Warsh jura el cargo como nuevo presidente de la Reserva Federal con Trump al fondo y el bono americano a diez años en el 4,56%. Su perfil de halcón amenaza con mantener los tipos altos más tiempo del previsto, con consecuencias directas para la renta fija y la renta variable global. En España, Puig se desploma un 13% tras romperse las negociaciones de fusión con Estée Lauder, mientras Santander enfrenta presión política en Washington por su compra de Webster Bank. Además, SpaceX publica su folleto de salida a bolsa con 4.200 millones de pérdidas. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:30</strong> &mdash; Kevin Warsh jura como presidente de la Fed</li>
+  <li><strong>1:31</strong> &mdash; Santander bajo presión en EE.UU. y SpaceX en bolsa</li>
+  <li><strong>2:38</strong> &mdash; Ibex en 17.985 puntos: subida sin convicción</li>
+  <li><strong>3:44</strong> &mdash; Puig se desploma un 13%: se rompe la fusión con Estée Lauder</li>
+  <li><strong>7:36</strong> &mdash; Macro de cierre: petróleo, oro, dólar y BCE en junio</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#ReservaFederal #KevinWarsh #tiposdeinterés #Puigbolsa #EstéeLauder</em></p>]]></content:encoded>
+      <itunes:summary>Kevin Warsh jura el cargo como nuevo presidente de la Reserva Federal con Trump al fondo y el bono americano a diez años en el 4,56%. Su perfil de halcón amenaza con mantener los tipos altos más tiempo del previsto, con consecuencias directas para la renta fija y la renta variable global. En España, Puig se desploma un 13% tras romperse las negociaciones de fusión con Estée Lauder, mientras Santander enfrenta presión política en Washington por su compra de Webster Bank. Además, SpaceX publica su folleto de salida a bolsa con 4.200 millones de pérdidas. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Sat, 23 May 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260523/letra-pequena-2026-05-23.mp3" length="14796177" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260523</guid>
+      <itunes:duration>10:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequeña</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
+      <itunes:keywords>Reserva Federal, Kevin Warsh, tipos de interés, Puig bolsa, Estée Lauder, bono americano, Santander Webster Bank, SpaceX OPV</itunes:keywords>
       <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Warsh toma la Fed y Puig se desploma un trece por ciento</title>
+      <itunes:title>Warsh toma la Fed y Puig se desploma un trece por ciento</itunes:title>
+      <itunes:subtitle>El relevo en la Reserva Federal reposiciona expectativas mientras el Ibex roza los 18.000</itunes:subtitle>
+      <description><![CDATA[<p>Kevin Warsh jura como presidente de la Reserva Federal y Wall Street eleva las expectativas de subidas de tipos para 2026. Su historial como halcón monetario marca la diferencia con la era Powell y reposiciona el bono americano. En el Ibex, Puig protagoniza su peor jornada bursátil desde su salida a bolsa tras la ruptura de las negociaciones de fusión con Estée Lauder. Además, dos senadores republicanos piden investigar la compra de Webster Financial por el Santander, y el BCE calibra su margen antes de la reunión del 11 de junio. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:20</strong> &mdash; Kevin Warsh jura como presidente de la Fed</li>
+  <li><strong>2:12</strong> &mdash; Puig se desploma un 13%: se rompe la fusión con Estée Lauder</li>
+  <li><strong>3:53</strong> &mdash; El Ibex roza los 18.000 y el VIX cae al 16,59</li>
+  <li><strong>4:49</strong> &mdash; Presión política en el Senado sobre la compra del Santander</li>
+  <li><strong>6:08</strong> &mdash; BCE en espera: Lane habla y el 11 de junio se acerca</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#ReservaFederal #KevinWarsh #tiposdeinterés #Puigbolsa #EstéeLauder</em></p>]]></description>
+      <content:encoded><![CDATA[<p>Kevin Warsh jura como presidente de la Reserva Federal y Wall Street eleva las expectativas de subidas de tipos para 2026. Su historial como halcón monetario marca la diferencia con la era Powell y reposiciona el bono americano. En el Ibex, Puig protagoniza su peor jornada bursátil desde su salida a bolsa tras la ruptura de las negociaciones de fusión con Estée Lauder. Además, dos senadores republicanos piden investigar la compra de Webster Financial por el Santander, y el BCE calibra su margen antes de la reunión del 11 de junio. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:20</strong> &mdash; Kevin Warsh jura como presidente de la Fed</li>
+  <li><strong>2:12</strong> &mdash; Puig se desploma un 13%: se rompe la fusión con Estée Lauder</li>
+  <li><strong>3:53</strong> &mdash; El Ibex roza los 18.000 y el VIX cae al 16,59</li>
+  <li><strong>4:49</strong> &mdash; Presión política en el Senado sobre la compra del Santander</li>
+  <li><strong>6:08</strong> &mdash; BCE en espera: Lane habla y el 11 de junio se acerca</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#ReservaFederal #KevinWarsh #tiposdeinterés #Puigbolsa #EstéeLauder</em></p>]]></content:encoded>
+      <itunes:summary>Kevin Warsh jura como presidente de la Reserva Federal y Wall Street eleva las expectativas de subidas de tipos para 2026. Su historial como halcón monetario marca la diferencia con la era Powell y reposiciona el bono americano. En el Ibex, Puig protagoniza su peor jornada bursátil desde su salida a bolsa tras la ruptura de las negociaciones de fusión con Estée Lauder. Además, dos senadores republicanos piden investigar la compra de Webster Financial por el Santander, y el BCE calibra su margen antes de la reunión del 11 de junio. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Fri, 22 May 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260522/letra-pequena-2026-05-22.mp3" length="11857055" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260522</guid>
+      <itunes:duration>08:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequeña</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
+      <itunes:keywords>Reserva Federal, Kevin Warsh, tipos de interés, Puig bolsa, Estée Lauder, Santander Webster, BCE, Ibex 35</itunes:keywords>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>El Ibex rebota con Nvidia pero el oro no baja la guardia</title>
+      <itunes:title>El Ibex rebota con Nvidia pero el oro no baja la guardia</itunes:title>
+      <itunes:subtitle>Los PMIs flash y el petróleo a 100 dólares complican la lectura del día</itunes:subtitle>
+      <description><![CDATA[<p>El Ibex sube un 2,64% tras los resultados de Nvidia, pero tres señales contradicen la euforia: el bono americano se relaja sin convencer, el oro supera los 4.500 dólares y el Fear and Greed Index sigue en zona de miedo. Analizamos los PMIs flash de Alemania, Francia y Estados Unidos, decisivos para las reuniones del BCE y la Fed en junio. En España, Bruselas revisa al alza el crecimiento hasta el 2,4%, pero con el petróleo caro ya incorporado como base. Y en Indra, el 14,3% vendido por los Escribano sigue sin accionista identificable. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:30</strong> &mdash; Rebote del Ibex y señales contradictorias del mercado</li>
+  <li><strong>0:55</strong> &mdash; España: crecimiento al 2,4% pero con el petróleo caro como base</li>
+  <li><strong>1:46</strong> &mdash; PMIs flash: la clave para BCE y Fed en junio</li>
+  <li><strong>3:09</strong> &mdash; Indra: el 14,3% de los Escribano sigue sin dueño identificable</li>
+  <li><strong>3:34</strong> &mdash; SpaceX y OpenAI: las OPVs que mueven el capital institucional</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#Ibex35 #Nvidiaresultados #bonoamericano #PMIflash #BCEtiposjunio</em></p>]]></description>
+      <content:encoded><![CDATA[<p>El Ibex sube un 2,64% tras los resultados de Nvidia, pero tres señales contradicen la euforia: el bono americano se relaja sin convencer, el oro supera los 4.500 dólares y el Fear and Greed Index sigue en zona de miedo. Analizamos los PMIs flash de Alemania, Francia y Estados Unidos, decisivos para las reuniones del BCE y la Fed en junio. En España, Bruselas revisa al alza el crecimiento hasta el 2,4%, pero con el petróleo caro ya incorporado como base. Y en Indra, el 14,3% vendido por los Escribano sigue sin accionista identificable. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:30</strong> &mdash; Rebote del Ibex y señales contradictorias del mercado</li>
+  <li><strong>0:55</strong> &mdash; España: crecimiento al 2,4% pero con el petróleo caro como base</li>
+  <li><strong>1:46</strong> &mdash; PMIs flash: la clave para BCE y Fed en junio</li>
+  <li><strong>3:09</strong> &mdash; Indra: el 14,3% de los Escribano sigue sin dueño identificable</li>
+  <li><strong>3:34</strong> &mdash; SpaceX y OpenAI: las OPVs que mueven el capital institucional</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#Ibex35 #Nvidiaresultados #bonoamericano #PMIflash #BCEtiposjunio</em></p>]]></content:encoded>
+      <itunes:summary>El Ibex sube un 2,64% tras los resultados de Nvidia, pero tres señales contradicen la euforia: el bono americano se relaja sin convencer, el oro supera los 4.500 dólares y el Fear and Greed Index sigue en zona de miedo. Analizamos los PMIs flash de Alemania, Francia y Estados Unidos, decisivos para las reuniones del BCE y la Fed en junio. En España, Bruselas revisa al alza el crecimiento hasta el 2,4%, pero con el petróleo caro ya incorporado como base. Y en Indra, el 14,3% vendido por los Escribano sigue sin accionista identificable. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Thu, 21 May 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260521/letra-pequena-2026-05-21.mp3" length="18927078" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260521</guid>
+      <itunes:duration>13:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequeña</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
+      <itunes:keywords>Ibex 35, Nvidia resultados, bono americano, PMI flash, BCE tipos junio, petróleo 100 dólares, oro refugio, Indra accionariado</itunes:keywords>
+      <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
