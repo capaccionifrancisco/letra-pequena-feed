@@ -9,7 +9,7 @@
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
     <copyright>© 2026 Letra Pequeña</copyright>
-    <lastBuildDate>Wed, 27 May 2026 10:30:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:57:14 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
     <itunes:author>Letra Pequeña</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
@@ -56,7 +56,7 @@
 <p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #shockgeoeconómico #OrienteMedio #energía #tiposdeinterés</em></p>]]></content:encoded>
       <itunes:summary>El Banco Central Europeo publica su revisión de estabilidad financiera con un lenguaje inusual: shock geoeconómico mayor. Luis de Guindos advierte sobre vulnerabilidades reales en la transmisión de precios energéticos. Analizamos cómo el conflicto en Oriente Medio condiciona la inflación, el crecimiento y la decisión de tipos del 11 de junio. Además: la salida de CVC de Naturgy, el boom del mercado hipotecario español, y por qué el billon de euros en fondos de inversión amplifica la exposición de los españoles a estos riesgos. Nuevo episodio cada día laborable.</itunes:summary>
       <pubDate>Wed, 27 May 2026 07:00:00 +0200</pubDate>
-      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260527/letra-pequena-2026-05-27.mp3" length="42609096" type="audio/mpeg"/>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260527b/letra-pequena-2026-05-27.mp3" length="42609096" type="audio/mpeg"/>
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260527</guid>
       <itunes:duration>29:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
