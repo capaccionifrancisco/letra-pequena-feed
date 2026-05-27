@@ -9,7 +9,7 @@
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
     <copyright>© 2026 Letra Pequeña</copyright>
-    <lastBuildDate>Wed, 27 May 2026 10:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:27:12 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
     <itunes:author>Letra Pequeña</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
@@ -25,42 +25,44 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
-      <title>El Banco Central Europeo advierte de vulnerabilidades elevadas en el sistema financiero</title>
-      <itunes:title>El Banco Central Europeo advierte de vulnerabilidades elevadas en el sistema financiero</itunes:title>
-      <itunes:subtitle>El shock energético de Oriente Medio presiona la inflación y complica el ciclo de bajadas de tipos</itunes:subtitle>
-      <description><![CDATA[<p>El Banco Central Europeo publica su revisión semestral de estabilidad financiera con un mensaje claro: las vulnerabilidades del sistema permanecen elevadas. El conflicto en Oriente Medio presiona los precios de la energía, complicando la política monetaria en un momento de reactivación del crédito hipotecario español en máximos de quince años. Analizamos el impacto en bancos, renta fija y carteras de inversores minoristas, mientras el mercado espera las decisiones del once de junio. Nuevo episodio cada día laborable.</p>
+      <title>El Banco Central Europeo advierte de un shock geoeconómico mayor</title>
+      <itunes:title>El Banco Central Europeo advierte de un shock geoeconómico mayor</itunes:title>
+      <itunes:subtitle>Oriente Medio, energía e incertidumbre en la decisión de tipos de junio</itunes:subtitle>
+      <description><![CDATA[<p>El Banco Central Europeo publica su revisión de estabilidad financiera con un lenguaje inusual: shock geoeconómico mayor. Luis de Guindos advierte sobre vulnerabilidades reales en la transmisión de precios energéticos. Analizamos cómo el conflicto en Oriente Medio condiciona la inflación, el crecimiento y la decisión de tipos del 11 de junio. Además: la salida de CVC de Naturgy, el boom del mercado hipotecario español, y por qué el billon de euros en fondos de inversión amplifica la exposición de los españoles a estos riesgos. Nuevo episodio cada día laborable.</p>
 <p><strong>Bloques del episodio</strong></p>
 <ul>
-  <li><strong>0:12</strong> &mdash; El informe de estabilidad financiera del BCE</li>
-  <li><strong>0:12</strong> &mdash; El impacto del shock energético en Europa</li>
-  <li><strong>0:12</strong> &mdash; La posición incómoda del Banco Central Europeo</li>
-  <li><strong>1:32</strong> &mdash; Los tres niveles de riesgo sistémico identificados</li>
-  <li><strong>2:01</strong> &mdash; CVC cierra su salida de Naturgy y reactivación hipotecaria récord</li>
-  <li><strong>3:26</strong> &mdash; Cambio de liderazgo en Indra y multa por información privilegiada</li>
-  <li><strong>5:18</strong> &mdash; Mercados globales y señales de mañana</li>
+  <li><strong>0:12</strong> &mdash; La tensión central: superficie favorable, vulnerabilidad debajo</li>
+  <li><strong>0:29</strong> &mdash; El diagnóstico del BCE: vulnerabilidad estructural</li>
+  <li><strong>1:33</strong> &mdash; La trampa de tipos: inflación vs. crecimiento</li>
+  <li><strong>2:27</strong> &mdash; Hipotecas en máximos: transmisión monetaria en acción</li>
+  <li><strong>4:14</strong> &mdash; Petroleo, Naturgy y movimientos corporativos</li>
+  <li><strong>10:22</strong> &mdash; Fondos, dividendos y exposición al riesgo</li>
+  <li><strong>12:45</strong> &mdash; Tecnología, defensa e Indra</li>
+  <li><strong>17:17</strong> &mdash; Oro, divisas y apetito de riesgo global</li>
 </ul>
-<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #estabilidadfinanciera #shockenergético #políticamonetaria #créditohipotecario</em></p>]]></description>
-      <content:encoded><![CDATA[<p>El Banco Central Europeo publica su revisión semestral de estabilidad financiera con un mensaje claro: las vulnerabilidades del sistema permanecen elevadas. El conflicto en Oriente Medio presiona los precios de la energía, complicando la política monetaria en un momento de reactivación del crédito hipotecario español en máximos de quince años. Analizamos el impacto en bancos, renta fija y carteras de inversores minoristas, mientras el mercado espera las decisiones del once de junio. Nuevo episodio cada día laborable.</p>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #shockgeoeconómico #OrienteMedio #energía #tiposdeinterés</em></p>]]></description>
+      <content:encoded><![CDATA[<p>El Banco Central Europeo publica su revisión de estabilidad financiera con un lenguaje inusual: shock geoeconómico mayor. Luis de Guindos advierte sobre vulnerabilidades reales en la transmisión de precios energéticos. Analizamos cómo el conflicto en Oriente Medio condiciona la inflación, el crecimiento y la decisión de tipos del 11 de junio. Además: la salida de CVC de Naturgy, el boom del mercado hipotecario español, y por qué el billon de euros en fondos de inversión amplifica la exposición de los españoles a estos riesgos. Nuevo episodio cada día laborable.</p>
 <p><strong>Bloques del episodio</strong></p>
 <ul>
-  <li><strong>0:12</strong> &mdash; El informe de estabilidad financiera del BCE</li>
-  <li><strong>0:12</strong> &mdash; El impacto del shock energético en Europa</li>
-  <li><strong>0:12</strong> &mdash; La posición incómoda del Banco Central Europeo</li>
-  <li><strong>1:32</strong> &mdash; Los tres niveles de riesgo sistémico identificados</li>
-  <li><strong>2:01</strong> &mdash; CVC cierra su salida de Naturgy y reactivación hipotecaria récord</li>
-  <li><strong>3:26</strong> &mdash; Cambio de liderazgo en Indra y multa por información privilegiada</li>
-  <li><strong>5:18</strong> &mdash; Mercados globales y señales de mañana</li>
+  <li><strong>0:12</strong> &mdash; La tensión central: superficie favorable, vulnerabilidad debajo</li>
+  <li><strong>0:29</strong> &mdash; El diagnóstico del BCE: vulnerabilidad estructural</li>
+  <li><strong>1:33</strong> &mdash; La trampa de tipos: inflación vs. crecimiento</li>
+  <li><strong>2:27</strong> &mdash; Hipotecas en máximos: transmisión monetaria en acción</li>
+  <li><strong>4:14</strong> &mdash; Petroleo, Naturgy y movimientos corporativos</li>
+  <li><strong>10:22</strong> &mdash; Fondos, dividendos y exposición al riesgo</li>
+  <li><strong>12:45</strong> &mdash; Tecnología, defensa e Indra</li>
+  <li><strong>17:17</strong> &mdash; Oro, divisas y apetito de riesgo global</li>
 </ul>
-<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #estabilidadfinanciera #shockenergético #políticamonetaria #créditohipotecario</em></p>]]></content:encoded>
-      <itunes:summary>El Banco Central Europeo publica su revisión semestral de estabilidad financiera con un mensaje claro: las vulnerabilidades del sistema permanecen elevadas. El conflicto en Oriente Medio presiona los precios de la energía, complicando la política monetaria en un momento de reactivación del crédito hipotecario español en máximos de quince años. Analizamos el impacto en bancos, renta fija y carteras de inversores minoristas, mientras el mercado espera las decisiones del once de junio. Nuevo episodio cada día laborable.</itunes:summary>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #shockgeoeconómico #OrienteMedio #energía #tiposdeinterés</em></p>]]></content:encoded>
+      <itunes:summary>El Banco Central Europeo publica su revisión de estabilidad financiera con un lenguaje inusual: shock geoeconómico mayor. Luis de Guindos advierte sobre vulnerabilidades reales en la transmisión de precios energéticos. Analizamos cómo el conflicto en Oriente Medio condiciona la inflación, el crecimiento y la decisión de tipos del 11 de junio. Además: la salida de CVC de Naturgy, el boom del mercado hipotecario español, y por qué el billon de euros en fondos de inversión amplifica la exposición de los españoles a estos riesgos. Nuevo episodio cada día laborable.</itunes:summary>
       <pubDate>Wed, 27 May 2026 07:00:00 +0200</pubDate>
-      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260527/letra-pequena-2026-05-27.mp3" length="42608962" type="audio/mpeg"/>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260527/letra-pequena-2026-05-27.mp3" length="42609096" type="audio/mpeg"/>
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260527</guid>
       <itunes:duration>29:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Letra Pequeña</itunes:author>
       <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
-      <itunes:keywords>Banco Central Europeo, estabilidad financiera, shock energético, política monetaria, crédito hipotecario, bancos españoles, tipos de interés</itunes:keywords>
+      <itunes:keywords>Banco Central Europeo, shock geoeconómico, Oriente Medio, energía, tipos de interés, Naturgy, mercado hipotecario</itunes:keywords>
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
