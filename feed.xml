@@ -8,14 +8,14 @@
     <link>https://capaccionifrancisco.github.io/letra-pequena-feed</link>
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
-    <copyright>© 2026 Letra Pequeña</copyright>
-    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
+    <copyright>(c) 2026 Letra Pequena</copyright>
+    <lastBuildDate>Wed, 27 May 2026 09:02:06 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
-    <itunes:author>Letra Pequeña</itunes:author>
+    <itunes:author>Letra Pequena</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
     <itunes:subtitle>El primer podcast financiero AI-native en castellano.</itunes:subtitle>
     <itunes:owner>
-      <itunes:name>Letra Pequeña</itunes:name>
+      <itunes:name>Letra Pequena</itunes:name>
       <itunes:email>capaccionifrancisco@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
@@ -24,6 +24,51 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
+    <item>
+      <title>Warsh, tipos americanos y el hilo que tensa el Ibex</title>
+      <itunes:title>Warsh, tipos americanos y el hilo que tensa el Ibex</itunes:title>
+      <itunes:subtitle>La semana sin datos, pero con contexto que importa</itunes:subtitle>
+      <description><![CDATA[<p>El material del día no ha llegado, pero la semana tiene hilo conductor. Kevin Warsh en la Reserva Federal, el bono americano rozando máximos desde 2007, la banca española en transición, y el euríbor moderando su bajada. Repasamos el contexto acumulado que va a definir el comportamiento de los mercados en las próximas semanas, desde la política monetaria hasta el impacto directo en las hipotecas variables españolas. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:34</strong> &mdash; La ausencia de material y el contexto de la semana</li>
+  <li><strong>0:44</strong> &mdash; Kevin Warsh en la Reserva Federal y el bono americano</li>
+  <li><strong>0:44</strong> &mdash; Impacto en renta variable europea y el Ibex</li>
+  <li><strong>0:44</strong> &mdash; Lo que vigila esta semana</li>
+  <li><strong>1:14</strong> &mdash; Banca española en transición desde el ciclo de tipos altos</li>
+  <li><strong>3:35</strong> &mdash; Las tres capas de impacto para inversores españoles</li>
+  <li><strong>3:35</strong> &mdash; El Banco Central Europeo y el ciclo europeo</li>
+  <li><strong>3:35</strong> &mdash; El euríbor y el impacto en hipotecas variables</li>
+  <li><strong>11:40</strong> &mdash; SpaceX, OpenAI y el ecosistema tecnológico</li>
+  <li><strong>13:11</strong> &mdash; Indra sin consejero delegado y el sector de defensa</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#KevinWarsh #ReservaFederal #bonoamericano #tiposdeinterés #BancoCentralEuropeo</em></p>]]></description>
+      <content:encoded><![CDATA[<p>El material del día no ha llegado, pero la semana tiene hilo conductor. Kevin Warsh en la Reserva Federal, el bono americano rozando máximos desde 2007, la banca española en transición, y el euríbor moderando su bajada. Repasamos el contexto acumulado que va a definir el comportamiento de los mercados en las próximas semanas, desde la política monetaria hasta el impacto directo en las hipotecas variables españolas. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:34</strong> &mdash; La ausencia de material y el contexto de la semana</li>
+  <li><strong>0:44</strong> &mdash; Kevin Warsh en la Reserva Federal y el bono americano</li>
+  <li><strong>0:44</strong> &mdash; Impacto en renta variable europea y el Ibex</li>
+  <li><strong>0:44</strong> &mdash; Lo que vigila esta semana</li>
+  <li><strong>1:14</strong> &mdash; Banca española en transición desde el ciclo de tipos altos</li>
+  <li><strong>3:35</strong> &mdash; Las tres capas de impacto para inversores españoles</li>
+  <li><strong>3:35</strong> &mdash; El Banco Central Europeo y el ciclo europeo</li>
+  <li><strong>3:35</strong> &mdash; El euríbor y el impacto en hipotecas variables</li>
+  <li><strong>11:40</strong> &mdash; SpaceX, OpenAI y el ecosistema tecnológico</li>
+  <li><strong>13:11</strong> &mdash; Indra sin consejero delegado y el sector de defensa</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#KevinWarsh #ReservaFederal #bonoamericano #tiposdeinterés #BancoCentralEuropeo</em></p>]]></content:encoded>
+      <itunes:summary>El material del día no ha llegado, pero la semana tiene hilo conductor. Kevin Warsh en la Reserva Federal, el bono americano rozando máximos desde 2007, la banca española en transición, y el euríbor moderando su bajada. Repasamos el contexto acumulado que va a definir el comportamiento de los mercados en las próximas semanas, desde la política monetaria hasta el impacto directo en las hipotecas variables españolas. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Wed, 27 May 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260527/letra-pequena-2026-05-27.mp3" length="28394216" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260527</guid>
+      <itunes:duration>19:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
+      <itunes:keywords>Kevin Warsh, Reserva Federal, bono americano, tipos de interés, Banco Central Europeo, euríbor, Ibex 35</itunes:keywords>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
