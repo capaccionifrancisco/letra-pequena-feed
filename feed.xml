@@ -8,14 +8,14 @@
     <link>https://capaccionifrancisco.github.io/letra-pequena-feed</link>
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
-    <copyright>© 2026 Letra Pequeña</copyright>
-    <lastBuildDate>Fri, 29 May 2026 09:57:03 +0000</lastBuildDate>
+    <copyright>(c) 2026 Letra Pequena</copyright>
+    <lastBuildDate>Mon, 01 Jun 2026 07:34:46 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
-    <itunes:author>Letra Pequeña</itunes:author>
+    <itunes:author>Letra Pequena</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
     <itunes:subtitle>El primer podcast financiero AI-native en castellano.</itunes:subtitle>
     <itunes:owner>
-      <itunes:name>Letra Pequeña</itunes:name>
+      <itunes:name>Letra Pequena</itunes:name>
       <itunes:email>capaccionifrancisco@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
@@ -24,6 +24,52 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Petróleo, inflación y bancos centrales: la semana que mueve carteras</title>
+      <itunes:title>Petróleo, inflación y bancos centrales: la semana que mueve carteras</itunes:title>
+      <itunes:subtitle>Datos americanos, decisión del BCE y tensión en Oriente Próximo definen el mes</itunes:subtitle>
+      <description><![CDATA[<p>Junio arranca con una semana decisiva para inversores. El petróleo sube por tensión en el Estrecho de Ormuz mientras los datos de actividad industrial americana y la inflación de la eurozona moldean las expectativas sobre tipos. Christine Lagarde hablará el jueves y el BCE decidirá el once de junio. Analizamos el impacto en hipotecas, divisas y carteras globales, con especial atención a mercados emergentes, semiconductores en Corea y el dividendo de Telefónica. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:12</strong> &mdash; Banco Central Europeo: camino hacia el once de junio</li>
+  <li><strong>0:42</strong> &mdash; Estructura de la semana: tres fechas clave para carteras</li>
+  <li><strong>1:03</strong> &mdash; Datos industriales americanos: el foco del día</li>
+  <li><strong>3:47</strong> &mdash; CaixaBank y la recomendación de Luis de Guindos</li>
+  <li><strong>7:23</strong> &mdash; Semiconductores en Corea: Jensen Huang y el rally tecnológico</li>
+  <li><strong>8:32</strong> &mdash; Riesgos regulatorios y fraude: ciberestafas y responsabilidad bancaria</li>
+  <li><strong>14:01</strong> &mdash; Emergentes: India al alza, China rezagada, Sri Lanka en estrés</li>
+  <li><strong>14:54</strong> &mdash; Stablecoins y regulación: Isabel Schnabel y el euro digital</li>
+  <li><strong>16:52</strong> &mdash; Dividendos de junio: Telefónica lidera con 7,5% de rentabilidad</li>
+  <li><strong>21:43</strong> &mdash; Petróleo y geopolítica: el Estrecho de Ormuz en tensión</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#petróleoOrientePróximo #inflacióneurozona #BancoCentralEuropeo #tiposdeinterés #hipotecavariable</em></p>]]></description>
+      <content:encoded><![CDATA[<p>Junio arranca con una semana decisiva para inversores. El petróleo sube por tensión en el Estrecho de Ormuz mientras los datos de actividad industrial americana y la inflación de la eurozona moldean las expectativas sobre tipos. Christine Lagarde hablará el jueves y el BCE decidirá el once de junio. Analizamos el impacto en hipotecas, divisas y carteras globales, con especial atención a mercados emergentes, semiconductores en Corea y el dividendo de Telefónica. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:12</strong> &mdash; Banco Central Europeo: camino hacia el once de junio</li>
+  <li><strong>0:42</strong> &mdash; Estructura de la semana: tres fechas clave para carteras</li>
+  <li><strong>1:03</strong> &mdash; Datos industriales americanos: el foco del día</li>
+  <li><strong>3:47</strong> &mdash; CaixaBank y la recomendación de Luis de Guindos</li>
+  <li><strong>7:23</strong> &mdash; Semiconductores en Corea: Jensen Huang y el rally tecnológico</li>
+  <li><strong>8:32</strong> &mdash; Riesgos regulatorios y fraude: ciberestafas y responsabilidad bancaria</li>
+  <li><strong>14:01</strong> &mdash; Emergentes: India al alza, China rezagada, Sri Lanka en estrés</li>
+  <li><strong>14:54</strong> &mdash; Stablecoins y regulación: Isabel Schnabel y el euro digital</li>
+  <li><strong>16:52</strong> &mdash; Dividendos de junio: Telefónica lidera con 7,5% de rentabilidad</li>
+  <li><strong>21:43</strong> &mdash; Petróleo y geopolítica: el Estrecho de Ormuz en tensión</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#petróleoOrientePróximo #inflacióneurozona #BancoCentralEuropeo #tiposdeinterés #hipotecavariable</em></p>]]></content:encoded>
+      <itunes:summary>Junio arranca con una semana decisiva para inversores. El petróleo sube por tensión en el Estrecho de Ormuz mientras los datos de actividad industrial americana y la inflación de la eurozona moldean las expectativas sobre tipos. Christine Lagarde hablará el jueves y el BCE decidirá el once de junio. Analizamos el impacto en hipotecas, divisas y carteras globales, con especial atención a mercados emergentes, semiconductores en Corea y el dividendo de Telefónica. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Mon, 01 Jun 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260601-8f7fece2/letra-pequena-2026-06-01.mp3" length="40099345" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260601</guid>
+      <itunes:duration>27:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260601.jpg"/>
+      <itunes:keywords>petróleo Oriente Próximo, inflación eurozona, Banco Central Europeo, tipos de interés, hipoteca variable, semiconductores Corea, mercados emergentes, dividendos Ibex</itunes:keywords>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Inflación estancada, Irán en el aire y el riesgo regulatorio en el sector eléctrico</title>
       <itunes:title>Inflación estancada, Irán en el aire y el riesgo regulatorio en el sector eléctrico</itunes:title>
@@ -36,8 +82,8 @@
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260529</guid>
       <itunes:duration>19:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequeña</itunes:author>
-      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260529.jpg"/>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
       <itunes:keywords>inflación, España, Irán, sector eléctrico, regulación</itunes:keywords>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -76,10 +122,10 @@
       <pubDate>Thu, 28 May 2026 07:00:00 +0200</pubDate>
       <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260528-d2cc521f/letra-pequena-2026-05-28.mp3" length="33695400" type="audio/mpeg"/>
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260528</guid>
-      <itunes:duration>23:16</itunes:duration>
+      <itunes:duration>23:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequeña</itunes:author>
-      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260528.jpg"/>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
       <itunes:keywords>Banco Central Europeo, tipos de interés, petróleo y geopolítica, inflación vs crecimiento, concentración tecnológica, estabilidad financiera</itunes:keywords>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -118,10 +164,10 @@
       <pubDate>Wed, 27 May 2026 07:00:00 +0200</pubDate>
       <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260527b/letra-pequena-2026-05-27.mp3" length="42609096" type="audio/mpeg"/>
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260527</guid>
-      <itunes:duration>29:27</itunes:duration>
+      <itunes:duration>28:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequeña</itunes:author>
-      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260527.jpg"/>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
       <itunes:keywords>Banco Central Europeo, shock geoeconómico, Oriente Medio, energía, tipos de interés, Naturgy, mercado hipotecario</itunes:keywords>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
