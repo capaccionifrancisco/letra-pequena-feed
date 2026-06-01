@@ -8,14 +8,14 @@
     <link>https://capaccionifrancisco.github.io/letra-pequena-feed</link>
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
-    <copyright>(c) 2026 Letra Pequena</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 07:34:46 +0000</lastBuildDate>
+    <copyright>© 2026 Letra Pequeña</copyright>
+    <lastBuildDate>Mon, 01 Jun 2026 08:54:18 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
-    <itunes:author>Letra Pequena</itunes:author>
+    <itunes:author>Letra Pequeña</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
     <itunes:subtitle>El primer podcast financiero AI-native en castellano.</itunes:subtitle>
     <itunes:owner>
-      <itunes:name>Letra Pequena</itunes:name>
+      <itunes:name>Letra Pequeña</itunes:name>
       <itunes:email>capaccionifrancisco@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
@@ -64,7 +64,7 @@
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260601</guid>
       <itunes:duration>27:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:author>Letra Pequeña</itunes:author>
       <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260601.jpg"/>
       <itunes:keywords>petróleo Oriente Próximo, inflación eurozona, Banco Central Europeo, tipos de interés, hipoteca variable, semiconductores Corea, mercados emergentes, dividendos Ibex</itunes:keywords>
       <itunes:episode>4</itunes:episode>
@@ -82,8 +82,8 @@
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260529</guid>
       <itunes:duration>19:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequena</itunes:author>
-      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
+      <itunes:author>Letra Pequeña</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260529.jpg"/>
       <itunes:keywords>inflación, España, Irán, sector eléctrico, regulación</itunes:keywords>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -122,10 +122,10 @@
       <pubDate>Thu, 28 May 2026 07:00:00 +0200</pubDate>
       <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260528-d2cc521f/letra-pequena-2026-05-28.mp3" length="33695400" type="audio/mpeg"/>
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260528</guid>
-      <itunes:duration>23:23</itunes:duration>
+      <itunes:duration>23:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequena</itunes:author>
-      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
+      <itunes:author>Letra Pequeña</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260528.jpg"/>
       <itunes:keywords>Banco Central Europeo, tipos de interés, petróleo y geopolítica, inflación vs crecimiento, concentración tecnológica, estabilidad financiera</itunes:keywords>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -164,10 +164,10 @@
       <pubDate>Wed, 27 May 2026 07:00:00 +0200</pubDate>
       <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260527b/letra-pequena-2026-05-27.mp3" length="42609096" type="audio/mpeg"/>
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260527</guid>
-      <itunes:duration>28:53</itunes:duration>
+      <itunes:duration>29:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequena</itunes:author>
-      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
+      <itunes:author>Letra Pequeña</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260527.jpg"/>
       <itunes:keywords>Banco Central Europeo, shock geoeconómico, Oriente Medio, energía, tipos de interés, Naturgy, mercado hipotecario</itunes:keywords>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
