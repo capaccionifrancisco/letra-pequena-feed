@@ -8,14 +8,14 @@
     <link>https://capaccionifrancisco.github.io/letra-pequena-feed</link>
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
-    <copyright>© 2026 Letra Pequeña</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 12:56:07 +0000</lastBuildDate>
+    <copyright>(c) 2026 Letra Pequena</copyright>
+    <lastBuildDate>Tue, 02 Jun 2026 08:57:23 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
-    <itunes:author>Letra Pequeña</itunes:author>
+    <itunes:author>Letra Pequena</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
     <itunes:subtitle>El primer podcast financiero AI-native en castellano.</itunes:subtitle>
     <itunes:owner>
-      <itunes:name>Letra Pequeña</itunes:name>
+      <itunes:name>Letra Pequena</itunes:name>
       <itunes:email>capaccionifrancisco@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portada-canal.jpg"/>
@@ -24,6 +24,44 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Inflación subyacente frena al BCE mientras el euro gana peso global</title>
+      <itunes:title>Inflación subyacente frena al BCE mientras el euro gana peso global</itunes:title>
+      <itunes:subtitle>El dato de hoy condiciona la decisión de tipos del 11 de junio y la demanda internacional de la moneda única</itunes:subtitle>
+      <description><![CDATA[<p>La inflación subyacente de la eurozona se mantiene en el 2,9%, por encima del objetivo del Banco Central Europeo, justo cuando la institución debe decidir sobre los tipos de interés en nueve días. Mientras tanto, el euro experimenta un giro histórico: es ahora la moneda preferida para emisiones de bonos verdes y gana terreno como reserva internacional. En el Ibex, el rebote del 0,8% refleja la corrección del petróleo y las tensiones geopolíticas en Oriente Próximo. Analizamos también los movimientos en Inditex, Bankinter, y el impacto de las sanciones estadounidenses en Iberostar y Cuba. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:23</strong> &mdash; Inflación eurozona y decisión del BCE del 11 de junio</li>
+  <li><strong>2:35</strong> &mdash; El euro como moneda de reserva internacional</li>
+  <li><strong>3:02</strong> &mdash; Mercados y geopolítica: petróleo y Oriente Próximo</li>
+  <li><strong>3:34</strong> &mdash; Turismo español y divergencias en inflación de servicios</li>
+  <li><strong>5:47</strong> &mdash; Movimientos en valores españoles e impacto regulatorio</li>
+  <li><strong>10:15</strong> &mdash; Focos de vigilancia: Lagarde, empleo estadounidense y geopolítica</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#inflacióneurozona #BancoCentralEuropeo #tiposdeinterés #euromonedareserva #euríbor</em></p>]]></description>
+      <content:encoded><![CDATA[<p>La inflación subyacente de la eurozona se mantiene en el 2,9%, por encima del objetivo del Banco Central Europeo, justo cuando la institución debe decidir sobre los tipos de interés en nueve días. Mientras tanto, el euro experimenta un giro histórico: es ahora la moneda preferida para emisiones de bonos verdes y gana terreno como reserva internacional. En el Ibex, el rebote del 0,8% refleja la corrección del petróleo y las tensiones geopolíticas en Oriente Próximo. Analizamos también los movimientos en Inditex, Bankinter, y el impacto de las sanciones estadounidenses en Iberostar y Cuba. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:23</strong> &mdash; Inflación eurozona y decisión del BCE del 11 de junio</li>
+  <li><strong>2:35</strong> &mdash; El euro como moneda de reserva internacional</li>
+  <li><strong>3:02</strong> &mdash; Mercados y geopolítica: petróleo y Oriente Próximo</li>
+  <li><strong>3:34</strong> &mdash; Turismo español y divergencias en inflación de servicios</li>
+  <li><strong>5:47</strong> &mdash; Movimientos en valores españoles e impacto regulatorio</li>
+  <li><strong>10:15</strong> &mdash; Focos de vigilancia: Lagarde, empleo estadounidense y geopolítica</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#inflacióneurozona #BancoCentralEuropeo #tiposdeinterés #euromonedareserva #euríbor</em></p>]]></content:encoded>
+      <itunes:summary>La inflación subyacente de la eurozona se mantiene en el 2,9%, por encima del objetivo del Banco Central Europeo, justo cuando la institución debe decidir sobre los tipos de interés en nueve días. Mientras tanto, el euro experimenta un giro histórico: es ahora la moneda preferida para emisiones de bonos verdes y gana terreno como reserva internacional. En el Ibex, el rebote del 0,8% refleja la corrección del petróleo y las tensiones geopolíticas en Oriente Próximo. Analizamos también los movimientos en Inditex, Bankinter, y el impacto de las sanciones estadounidenses en Iberostar y Cuba. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Tue, 02 Jun 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260602-2676c6ac/letra-pequena-2026-06-02.mp3" length="17186869" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260602</guid>
+      <itunes:duration>11:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260602.jpg"/>
+      <itunes:keywords>inflación eurozona, Banco Central Europeo, tipos de interés, euro moneda reserva, euríbor, geopolítica Oriente Próximo, Ibex turismo</itunes:keywords>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Petróleo, inflación y bancos centrales: la semana que mueve carteras</title>
       <itunes:title>Petróleo, inflación y bancos centrales: la semana que mueve carteras</itunes:title>
@@ -66,7 +104,7 @@
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260601</guid>
       <itunes:duration>26:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequeña</itunes:author>
+      <itunes:author>Letra Pequena</itunes:author>
       <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260601-v2.jpg"/>
       <itunes:keywords>petróleo Oriente Próximo, inflación eurozona, Banco Central Europeo, tipos de interés, hipoteca variable, semiconductores Corea, mercados emergentes, dividendos Ibex</itunes:keywords>
       <itunes:episode>4</itunes:episode>
@@ -76,17 +114,15 @@
       <title>Inflación estancada, Irán en el aire y el riesgo regulatorio en el sector eléctrico</title>
       <itunes:title>Inflación estancada, Irán en el aire y el riesgo regulatorio en el sector eléctrico</itunes:title>
       <itunes:subtitle>Inflación española al 3,2%, tensión geopolítica con Irán y sector eléctrico bajo presión regulatoria</itunes:subtitle>
-      <description><![CDATA[<p>Análisis del dato de inflación española de mayo, las implicaciones geopolíticas del acuerdo con Irán para los mercados, y el riesgo regulatorio que pesa sobre el sector eléctrico español. Nuevo episodio cada día laborable.</p>
-<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#inflación #España #Irán #sectoreléctrico #regulación</em></p>]]></description>
-      <content:encoded><![CDATA[<p>Análisis del dato de inflación española de mayo, las implicaciones geopolíticas del acuerdo con Irán para los mercados, y el riesgo regulatorio que pesa sobre el sector eléctrico español. Nuevo episodio cada día laborable.</p>
-<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#inflación #España #Irán #sectoreléctrico #regulación</em></p>]]></content:encoded>
+      <description><![CDATA[<p>Análisis del dato de inflación española de mayo, las implicaciones geopolíticas del acuerdo con Irán para los mercados, y el riesgo regulatorio que pesa sobre el sector eléctrico español. Nuevo episodio cada día laborable.</p>]]></description>
+      <content:encoded><![CDATA[<p>Análisis del dato de inflación española de mayo, las implicaciones geopolíticas del acuerdo con Irán para los mercados, y el riesgo regulatorio que pesa sobre el sector eléctrico español. Nuevo episodio cada día laborable.</p>]]></content:encoded>
       <itunes:summary>Análisis del dato de inflación española de mayo, las implicaciones geopolíticas del acuerdo con Irán para los mercados, y el riesgo regulatorio que pesa sobre el sector eléctrico español. Nuevo episodio cada día laborable.</itunes:summary>
       <pubDate>Fri, 29 May 2026 07:00:00 +0200</pubDate>
       <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260529-19f9dea8/letra-pequena-2026-05-29.mp3" length="27962090" type="audio/mpeg"/>
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260529</guid>
       <itunes:duration>19:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequeña</itunes:author>
+      <itunes:author>Letra Pequena</itunes:author>
       <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260529.jpg"/>
       <itunes:keywords>inflación, España, Irán, sector eléctrico, regulación</itunes:keywords>
       <itunes:episode>3</itunes:episode>
@@ -99,40 +135,36 @@
       <description><![CDATA[<p>El Banco Central Europeo se enfrenta a un dilema clásico: petróleo volátil que amenaza inflación, geopolítica que frena crecimiento, y una decisión de tipos en junio con menos visibilidad. Hoy Lagarde habla mientras Wall Street publica deflactor de consumo, PIB y empleo. En España, el mercado hipotecario acelera sobre la expectativa de bajadas que ahora tambalean. Analizamos las vulnerabilidades financieras que el BCE acaba de documentar, la concentración extrema del rally tecnológico americano, y por qué las grandes salidas a bolsa del segundo semestre pueden marcar un techo de ciclo. Nuevo episodio cada día laborable.</p>
 <p><strong>Bloques del episodio</strong></p>
 <ul>
-  <li><strong>0:12</strong> &mdash; Apertura: petróleo, Ibex y Lagarde</li>
-  <li><strong>1:04</strong> &mdash; BCE y el shock geopolítico: De Guindos y Lane</li>
-  <li><strong>3:08</strong> &mdash; Euríbor, hipotecas y el mercado hipotecario español</li>
-  <li><strong>4:18</strong> &mdash; Concentración del rally en Wall Street: tecnología y riesgo de burbuja</li>
-  <li><strong>8:38</strong> &mdash; Calendario de salidas a bolsa: Grifols, SpaceX, OpenAI y Anthropic</li>
-  <li><strong>9:25</strong> &mdash; Datos macro americanos: deflactor del consumo privado y PIB preliminar</li>
-  <li><strong>12:27</strong> &mdash; Bitcoin y criptomonedas: aversión al riesgo geopolítico</li>
-  <li><strong>15:38</strong> &mdash; Vulnerabilidades financieras del BCE y riesgos en el Ibex</li>
-  <li><strong>17:20</strong> &mdash; Sabadell y dividendos bancarios del Ibex: el megadividendo</li>
-  <li><strong>21:44</strong> &mdash; Cierre: qué vigilar</li>
+  <li><strong>0:26</strong> &mdash; El Banco Central Europeo y el dilema de Lagarde</li>
+  <li><strong>1:03</strong> &mdash; Mecanismo de transmisión y mercado hipotecario español</li>
+  <li><strong>2:27</strong> &mdash; Concentración extrema en Wall Street</li>
+  <li><strong>3:42</strong> &mdash; Operación Naturgy y ciclo de private equity</li>
+  <li><strong>4:38</strong> &mdash; Calendario de salidas a bolsa y techos de ciclo</li>
+  <li><strong>5:03</strong> &mdash; Datos macro americanos y expectativas de tipos</li>
+  <li><strong>8:19</strong> &mdash; Vulnerabilidades financieras y riesgos de estabilidad</li>
+  <li><strong>8:19</strong> &mdash; Exclusión financiera rural y riesgos regulatorios</li>
 </ul>
 <p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #tiposdeinterés #petróleoygeopolítica #inflaciónvscrecimiento #concentracióntecnológica</em></p>]]></description>
       <content:encoded><![CDATA[<p>El Banco Central Europeo se enfrenta a un dilema clásico: petróleo volátil que amenaza inflación, geopolítica que frena crecimiento, y una decisión de tipos en junio con menos visibilidad. Hoy Lagarde habla mientras Wall Street publica deflactor de consumo, PIB y empleo. En España, el mercado hipotecario acelera sobre la expectativa de bajadas que ahora tambalean. Analizamos las vulnerabilidades financieras que el BCE acaba de documentar, la concentración extrema del rally tecnológico americano, y por qué las grandes salidas a bolsa del segundo semestre pueden marcar un techo de ciclo. Nuevo episodio cada día laborable.</p>
 <p><strong>Bloques del episodio</strong></p>
 <ul>
-  <li><strong>0:12</strong> &mdash; Apertura: petróleo, Ibex y Lagarde</li>
-  <li><strong>1:04</strong> &mdash; BCE y el shock geopolítico: De Guindos y Lane</li>
-  <li><strong>3:08</strong> &mdash; Euríbor, hipotecas y el mercado hipotecario español</li>
-  <li><strong>4:18</strong> &mdash; Concentración del rally en Wall Street: tecnología y riesgo de burbuja</li>
-  <li><strong>8:38</strong> &mdash; Calendario de salidas a bolsa: Grifols, SpaceX, OpenAI y Anthropic</li>
-  <li><strong>9:25</strong> &mdash; Datos macro americanos: deflactor del consumo privado y PIB preliminar</li>
-  <li><strong>12:27</strong> &mdash; Bitcoin y criptomonedas: aversión al riesgo geopolítico</li>
-  <li><strong>15:38</strong> &mdash; Vulnerabilidades financieras del BCE y riesgos en el Ibex</li>
-  <li><strong>17:20</strong> &mdash; Sabadell y dividendos bancarios del Ibex: el megadividendo</li>
-  <li><strong>21:44</strong> &mdash; Cierre: qué vigilar</li>
+  <li><strong>0:26</strong> &mdash; El Banco Central Europeo y el dilema de Lagarde</li>
+  <li><strong>1:03</strong> &mdash; Mecanismo de transmisión y mercado hipotecario español</li>
+  <li><strong>2:27</strong> &mdash; Concentración extrema en Wall Street</li>
+  <li><strong>3:42</strong> &mdash; Operación Naturgy y ciclo de private equity</li>
+  <li><strong>4:38</strong> &mdash; Calendario de salidas a bolsa y techos de ciclo</li>
+  <li><strong>5:03</strong> &mdash; Datos macro americanos y expectativas de tipos</li>
+  <li><strong>8:19</strong> &mdash; Vulnerabilidades financieras y riesgos de estabilidad</li>
+  <li><strong>8:19</strong> &mdash; Exclusión financiera rural y riesgos regulatorios</li>
 </ul>
 <p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #tiposdeinterés #petróleoygeopolítica #inflaciónvscrecimiento #concentracióntecnológica</em></p>]]></content:encoded>
       <itunes:summary>El Banco Central Europeo se enfrenta a un dilema clásico: petróleo volátil que amenaza inflación, geopolítica que frena crecimiento, y una decisión de tipos en junio con menos visibilidad. Hoy Lagarde habla mientras Wall Street publica deflactor de consumo, PIB y empleo. En España, el mercado hipotecario acelera sobre la expectativa de bajadas que ahora tambalean. Analizamos las vulnerabilidades financieras que el BCE acaba de documentar, la concentración extrema del rally tecnológico americano, y por qué las grandes salidas a bolsa del segundo semestre pueden marcar un techo de ciclo. Nuevo episodio cada día laborable.</itunes:summary>
       <pubDate>Thu, 28 May 2026 07:00:00 +0200</pubDate>
       <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260528-d2cc521f/letra-pequena-2026-05-28.mp3" length="33695400" type="audio/mpeg"/>
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260528</guid>
-      <itunes:duration>23:16</itunes:duration>
+      <itunes:duration>23:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequeña</itunes:author>
+      <itunes:author>Letra Pequena</itunes:author>
       <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260528.jpg"/>
       <itunes:keywords>Banco Central Europeo, tipos de interés, petróleo y geopolítica, inflación vs crecimiento, concentración tecnológica, estabilidad financiera</itunes:keywords>
       <itunes:episode>2</itunes:episode>
@@ -145,42 +177,36 @@
       <description><![CDATA[<p>El Banco Central Europeo publica su revisión de estabilidad financiera con un lenguaje inusual: shock geoeconómico mayor. Luis de Guindos advierte sobre vulnerabilidades reales en la transmisión de precios energéticos. Analizamos cómo el conflicto en Oriente Medio condiciona la inflación, el crecimiento y la decisión de tipos del 11 de junio. Además: la salida de CVC de Naturgy, el boom del mercado hipotecario español, y por qué el billon de euros en fondos de inversión amplifica la exposición de los españoles a estos riesgos. Nuevo episodio cada día laborable.</p>
 <p><strong>Bloques del episodio</strong></p>
 <ul>
-  <li><strong>0:12</strong> &mdash; BCE y el &#x27;shock geoeconómico mayor&#x27;</li>
-  <li><strong>1:00</strong> &mdash; Mecanismo de transmisión energética en la eurozona</li>
-  <li><strong>2:02</strong> &mdash; La trampa del BCE: inflación al alza y crecimiento a la baja</li>
-  <li><strong>3:59</strong> &mdash; El petróleo y el Estrecho de Ormuz</li>
-  <li><strong>5:41</strong> &mdash; CVC vende su participación completa en Naturgy</li>
-  <li><strong>8:50</strong> &mdash; Gestoras españolas superan el billón de euros en activos</li>
-  <li><strong>13:01</strong> &mdash; Micron Technology y SK Hynix: el rally de la inteligencia artificial</li>
-  <li><strong>14:36</strong> &mdash; CNMV multa a José Elías y Gerard Piqué por información privilegiada</li>
-  <li><strong>17:14</strong> &mdash; Indra: Josep Maria Recasens, nuevo consejero delegado</li>
-  <li><strong>19:54</strong> &mdash; Oro, euro-dólar y criptomonedas: activos de contexto</li>
-  <li><strong>27:53</strong> &mdash; Cierre: datos americanos, focos y reflexión final</li>
+  <li><strong>0:12</strong> &mdash; La tensión central: superficie favorable, vulnerabilidad debajo</li>
+  <li><strong>0:29</strong> &mdash; El diagnóstico del BCE: vulnerabilidad estructural</li>
+  <li><strong>1:33</strong> &mdash; La trampa de tipos: inflación vs. crecimiento</li>
+  <li><strong>2:27</strong> &mdash; Hipotecas en máximos: transmisión monetaria en acción</li>
+  <li><strong>4:14</strong> &mdash; Petroleo, Naturgy y movimientos corporativos</li>
+  <li><strong>10:22</strong> &mdash; Fondos, dividendos y exposición al riesgo</li>
+  <li><strong>12:45</strong> &mdash; Tecnología, defensa e Indra</li>
+  <li><strong>17:17</strong> &mdash; Oro, divisas y apetito de riesgo global</li>
 </ul>
 <p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #shockgeoeconómico #OrienteMedio #energía #tiposdeinterés</em></p>]]></description>
       <content:encoded><![CDATA[<p>El Banco Central Europeo publica su revisión de estabilidad financiera con un lenguaje inusual: shock geoeconómico mayor. Luis de Guindos advierte sobre vulnerabilidades reales en la transmisión de precios energéticos. Analizamos cómo el conflicto en Oriente Medio condiciona la inflación, el crecimiento y la decisión de tipos del 11 de junio. Además: la salida de CVC de Naturgy, el boom del mercado hipotecario español, y por qué el billon de euros en fondos de inversión amplifica la exposición de los españoles a estos riesgos. Nuevo episodio cada día laborable.</p>
 <p><strong>Bloques del episodio</strong></p>
 <ul>
-  <li><strong>0:12</strong> &mdash; BCE y el &#x27;shock geoeconómico mayor&#x27;</li>
-  <li><strong>1:00</strong> &mdash; Mecanismo de transmisión energética en la eurozona</li>
-  <li><strong>2:02</strong> &mdash; La trampa del BCE: inflación al alza y crecimiento a la baja</li>
-  <li><strong>3:59</strong> &mdash; El petróleo y el Estrecho de Ormuz</li>
-  <li><strong>5:41</strong> &mdash; CVC vende su participación completa en Naturgy</li>
-  <li><strong>8:50</strong> &mdash; Gestoras españolas superan el billón de euros en activos</li>
-  <li><strong>13:01</strong> &mdash; Micron Technology y SK Hynix: el rally de la inteligencia artificial</li>
-  <li><strong>14:36</strong> &mdash; CNMV multa a José Elías y Gerard Piqué por información privilegiada</li>
-  <li><strong>17:14</strong> &mdash; Indra: Josep Maria Recasens, nuevo consejero delegado</li>
-  <li><strong>19:54</strong> &mdash; Oro, euro-dólar y criptomonedas: activos de contexto</li>
-  <li><strong>27:53</strong> &mdash; Cierre: datos americanos, focos y reflexión final</li>
+  <li><strong>0:12</strong> &mdash; La tensión central: superficie favorable, vulnerabilidad debajo</li>
+  <li><strong>0:29</strong> &mdash; El diagnóstico del BCE: vulnerabilidad estructural</li>
+  <li><strong>1:33</strong> &mdash; La trampa de tipos: inflación vs. crecimiento</li>
+  <li><strong>2:27</strong> &mdash; Hipotecas en máximos: transmisión monetaria en acción</li>
+  <li><strong>4:14</strong> &mdash; Petroleo, Naturgy y movimientos corporativos</li>
+  <li><strong>10:22</strong> &mdash; Fondos, dividendos y exposición al riesgo</li>
+  <li><strong>12:45</strong> &mdash; Tecnología, defensa e Indra</li>
+  <li><strong>17:17</strong> &mdash; Oro, divisas y apetito de riesgo global</li>
 </ul>
 <p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #shockgeoeconómico #OrienteMedio #energía #tiposdeinterés</em></p>]]></content:encoded>
       <itunes:summary>El Banco Central Europeo publica su revisión de estabilidad financiera con un lenguaje inusual: shock geoeconómico mayor. Luis de Guindos advierte sobre vulnerabilidades reales en la transmisión de precios energéticos. Analizamos cómo el conflicto en Oriente Medio condiciona la inflación, el crecimiento y la decisión de tipos del 11 de junio. Además: la salida de CVC de Naturgy, el boom del mercado hipotecario español, y por qué el billon de euros en fondos de inversión amplifica la exposición de los españoles a estos riesgos. Nuevo episodio cada día laborable.</itunes:summary>
       <pubDate>Wed, 27 May 2026 07:00:00 +0200</pubDate>
       <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260527b/letra-pequena-2026-05-27.mp3" length="42609096" type="audio/mpeg"/>
       <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260527</guid>
-      <itunes:duration>29:27</itunes:duration>
+      <itunes:duration>28:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Letra Pequeña</itunes:author>
+      <itunes:author>Letra Pequena</itunes:author>
       <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260527.jpg"/>
       <itunes:keywords>Banco Central Europeo, shock geoeconómico, Oriente Medio, energía, tipos de interés, Naturgy, mercado hipotecario</itunes:keywords>
       <itunes:episode>1</itunes:episode>
