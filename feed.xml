@@ -9,7 +9,7 @@
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
     <copyright>(c) 2026 Letra Pequena</copyright>
-    <lastBuildDate>Wed, 03 Jun 2026 09:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:49:15 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
     <itunes:author>Letra Pequena</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
@@ -24,6 +24,44 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>El oro destituye al Tesoro: el dinero global se repositiona</title>
+      <itunes:title>El oro destituye al Tesoro: el dinero global se repositiona</itunes:title>
+      <itunes:subtitle>Reservas mundiales, hipotecas en crisis y la mayor salida a bolsa de la historia</itunes:subtitle>
+      <description><![CDATA[<p>El Banco Central Europeo confirma que el oro es ya el principal activo de reserva mundial, desplazando al Tesoro americano. Mientras, las ejecuciones hipotecarias en España suben un 38% en vivienda habitual. SpaceX cotiza el 12 de junio en una operación de 1,77 billones de dólares. Singular Bank está en subasta con tres postores serios. Repsol acumula un 46% de revalorización en 2026. Analizamos cómo el dinero se repositiona a escala global hacia activos sin dependencia de deuda soberana americana, y qué significa para tu cartera. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:23</strong> &mdash; El oro supera al Tesoro como principal reserva mundial</li>
+  <li><strong>1:30</strong> &mdash; Ejecuciones hipotecarias en España: tensión financiera en los hogares</li>
+  <li><strong>3:18</strong> &mdash; Industria española y construcción: crecimiento con tensión</li>
+  <li><strong>4:11</strong> &mdash; M&amp;A: Singular Bank en subasta y SpaceX en la mayor IPO de la historia</li>
+  <li><strong>6:20</strong> &mdash; Mercados: Repsol en máximos desde 1999, Broadcom cae un 11%</li>
+  <li><strong>7:34</strong> &mdash; Regulación y calendario: sanciones a Piqué y datos de empleo americano</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#reservasdeoro #Tesoroamericano #ejecucioneshipotecarias #SpaceXIPO #BancoCentralEuropeo</em></p>]]></description>
+      <content:encoded><![CDATA[<p>El Banco Central Europeo confirma que el oro es ya el principal activo de reserva mundial, desplazando al Tesoro americano. Mientras, las ejecuciones hipotecarias en España suben un 38% en vivienda habitual. SpaceX cotiza el 12 de junio en una operación de 1,77 billones de dólares. Singular Bank está en subasta con tres postores serios. Repsol acumula un 46% de revalorización en 2026. Analizamos cómo el dinero se repositiona a escala global hacia activos sin dependencia de deuda soberana americana, y qué significa para tu cartera. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:23</strong> &mdash; El oro supera al Tesoro como principal reserva mundial</li>
+  <li><strong>1:30</strong> &mdash; Ejecuciones hipotecarias en España: tensión financiera en los hogares</li>
+  <li><strong>3:18</strong> &mdash; Industria española y construcción: crecimiento con tensión</li>
+  <li><strong>4:11</strong> &mdash; M&amp;A: Singular Bank en subasta y SpaceX en la mayor IPO de la historia</li>
+  <li><strong>6:20</strong> &mdash; Mercados: Repsol en máximos desde 1999, Broadcom cae un 11%</li>
+  <li><strong>7:34</strong> &mdash; Regulación y calendario: sanciones a Piqué y datos de empleo americano</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#reservasdeoro #Tesoroamericano #ejecucioneshipotecarias #SpaceXIPO #BancoCentralEuropeo</em></p>]]></content:encoded>
+      <itunes:summary>El Banco Central Europeo confirma que el oro es ya el principal activo de reserva mundial, desplazando al Tesoro americano. Mientras, las ejecuciones hipotecarias en España suben un 38% en vivienda habitual. SpaceX cotiza el 12 de junio en una operación de 1,77 billones de dólares. Singular Bank está en subasta con tres postores serios. Repsol acumula un 46% de revalorización en 2026. Analizamos cómo el dinero se repositiona a escala global hacia activos sin dependencia de deuda soberana americana, y qué significa para tu cartera. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Thu, 04 Jun 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260604-7c032aea/letra-pequena-2026-06-04.mp3" length="22783358" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260604</guid>
+      <itunes:duration>15:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260604.jpg"/>
+      <itunes:keywords>reservas de oro, Tesoro americano, ejecuciones hipotecarias, SpaceX IPO, Banco Central Europeo, euríbor, reposicionamiento de carteras</itunes:keywords>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Récords en bolsa mientras el petróleo se acerca a cien dólares</title>
       <itunes:title>Récords en bolsa mientras el petróleo se acerca a cien dólares</itunes:title>
