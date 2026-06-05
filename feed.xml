@@ -9,7 +9,7 @@
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
     <copyright>(c) 2026 Letra Pequena</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 08:49:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 08:31:40 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
     <itunes:author>Letra Pequena</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
@@ -24,6 +24,52 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>El capital se reposiciona: Bitcoin cae mientras la IA y SpaceX absorben inversión</title>
+      <itunes:title>El capital se reposiciona: Bitcoin cae mientras la IA y SpaceX absorben inversión</itunes:title>
+      <itunes:subtitle>Datos de empleo americanos hoy y reunión del BCE el 11 de junio marcarán el ritmo de los mercados</itunes:subtitle>
+      <description><![CDATA[<p>Bitcoin toca mínimos del año con una caída del 30% desde enero, mientras el capital especulativo migra hacia inteligencia artificial, semiconductores e infraestructura espacial. Broadcom cae un 13% tras resultados que decepcionan expectativas de crecimiento en chips de IA. En España, Acciona Energía busca comprador con Goldman Sachs e Inditex reduce tiendas físicas para concentrarse en lujo accesible. Los datos de empleo americanos de hoy serán clave para las decisiones de la Fed y el BCE. El euro digital avanza hacia votación en el Parlamento Europeo. La banca española aprueba tests de estrés geopolíticos. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:28</strong> &mdash; Bitcoin en mínimos y la ruptura de correlaciones</li>
+  <li><strong>3:10</strong> &mdash; Broadcom y la corrección tecnológica</li>
+  <li><strong>3:40</strong> &mdash; Datos de empleo americano: el termómetro de la Fed</li>
+  <li><strong>4:35</strong> &mdash; Banco Central Europeo: reunión del 11 de junio</li>
+  <li><strong>6:03</strong> &mdash; Banca española: tests de estrés y geopolítica</li>
+  <li><strong>7:01</strong> &mdash; Acciona Energía: proceso de venta abierto</li>
+  <li><strong>8:55</strong> &mdash; Inditex: estrategia de concentración y lujo accesible</li>
+  <li><strong>9:45</strong> &mdash; Euro digital: votación en Parlamento Europeo</li>
+  <li><strong>11:56</strong> &mdash; La migración del capital especulativo</li>
+  <li><strong>12:20</strong> &mdash; Eje financiero España-Portugal con América Latina</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#Bitcoin #inteligenciaartificial #datosdeempleo #BancoCentralEuropeo #Broadcom</em></p>]]></description>
+      <content:encoded><![CDATA[<p>Bitcoin toca mínimos del año con una caída del 30% desde enero, mientras el capital especulativo migra hacia inteligencia artificial, semiconductores e infraestructura espacial. Broadcom cae un 13% tras resultados que decepcionan expectativas de crecimiento en chips de IA. En España, Acciona Energía busca comprador con Goldman Sachs e Inditex reduce tiendas físicas para concentrarse en lujo accesible. Los datos de empleo americanos de hoy serán clave para las decisiones de la Fed y el BCE. El euro digital avanza hacia votación en el Parlamento Europeo. La banca española aprueba tests de estrés geopolíticos. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:28</strong> &mdash; Bitcoin en mínimos y la ruptura de correlaciones</li>
+  <li><strong>3:10</strong> &mdash; Broadcom y la corrección tecnológica</li>
+  <li><strong>3:40</strong> &mdash; Datos de empleo americano: el termómetro de la Fed</li>
+  <li><strong>4:35</strong> &mdash; Banco Central Europeo: reunión del 11 de junio</li>
+  <li><strong>6:03</strong> &mdash; Banca española: tests de estrés y geopolítica</li>
+  <li><strong>7:01</strong> &mdash; Acciona Energía: proceso de venta abierto</li>
+  <li><strong>8:55</strong> &mdash; Inditex: estrategia de concentración y lujo accesible</li>
+  <li><strong>9:45</strong> &mdash; Euro digital: votación en Parlamento Europeo</li>
+  <li><strong>11:56</strong> &mdash; La migración del capital especulativo</li>
+  <li><strong>12:20</strong> &mdash; Eje financiero España-Portugal con América Latina</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#Bitcoin #inteligenciaartificial #datosdeempleo #BancoCentralEuropeo #Broadcom</em></p>]]></content:encoded>
+      <itunes:summary>Bitcoin toca mínimos del año con una caída del 30% desde enero, mientras el capital especulativo migra hacia inteligencia artificial, semiconductores e infraestructura espacial. Broadcom cae un 13% tras resultados que decepcionan expectativas de crecimiento en chips de IA. En España, Acciona Energía busca comprador con Goldman Sachs e Inditex reduce tiendas físicas para concentrarse en lujo accesible. Los datos de empleo americanos de hoy serán clave para las decisiones de la Fed y el BCE. El euro digital avanza hacia votación en el Parlamento Europeo. La banca española aprueba tests de estrés geopolíticos. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Fri, 05 Jun 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260605-00ad6f9b/letra-pequena-2026-06-05.mp3" length="23518392" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260605</guid>
+      <itunes:duration>16:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260605.jpg"/>
+      <itunes:keywords>Bitcoin, inteligencia artificial, datos de empleo, Banco Central Europeo, Broadcom, Acciona Energía, euro digital</itunes:keywords>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>El oro destituye al Tesoro: el dinero global se repositiona</title>
       <itunes:title>El oro destituye al Tesoro: el dinero global se repositiona</itunes:title>
