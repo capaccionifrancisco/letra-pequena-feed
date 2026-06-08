@@ -9,7 +9,7 @@
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
     <copyright>(c) 2026 Letra Pequena</copyright>
-    <lastBuildDate>Fri, 05 Jun 2026 08:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 09:15:13 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
     <itunes:author>Letra Pequena</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
@@ -24,6 +24,44 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Petróleo, tipos y tecnología: la cadena que mueve todo</title>
+      <itunes:title>Petróleo, tipos y tecnología: la cadena que mueve todo</itunes:title>
+      <itunes:subtitle>Crudo cerca de los cien dólares y el BCE a punto de subir tipos por primera vez en tres años</itunes:subtitle>
+      <description><![CDATA[<p>El petróleo se acerca a los cien dólares por barril tras la escalada geopolítica en Oriente Medio, presionando la inflación justo cuando el Banco Central Europeo se prepara para subir tipos el jueves. Analizamos los tres mecanismos de transmisión que afectan a hipotecas, renta fija y tecnología global. También revisamos la explosión de precios inmobiliarios en España, la recomendación de compra de Goldman Sachs sobre Puig y la autorización de la CNMV a la oferta de BBVA sobre Sabadell. Nuevo episodio cada dia laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:12</strong> &mdash; Crudo en máximos: escalada geopolítica y tres mecanismos de transmisión</li>
+  <li><strong>1:37</strong> &mdash; Decisión del BCE el jueves: subida de tipos y efectos en hipotecas y bonos</li>
+  <li><strong>2:07</strong> &mdash; Precios de vivienda: máximo histórico desde 2007 en plena subida de tipos</li>
+  <li><strong>5:17</strong> &mdash; Goldman Sachs recomienda compra en Puig tras fracaso de fusión</li>
+  <li><strong>6:35</strong> &mdash; Regulación: CNMV autoriza oferta de BBVA sobre Sabadell y Soltec retoma cotización</li>
+  <li><strong>7:26</strong> &mdash; Caída tecnológica global y recalibración de valoraciones</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#petróleoBrent #BancoCentralEuropeo #tiposdeinterés #euríbor #inflación</em></p>]]></description>
+      <content:encoded><![CDATA[<p>El petróleo se acerca a los cien dólares por barril tras la escalada geopolítica en Oriente Medio, presionando la inflación justo cuando el Banco Central Europeo se prepara para subir tipos el jueves. Analizamos los tres mecanismos de transmisión que afectan a hipotecas, renta fija y tecnología global. También revisamos la explosión de precios inmobiliarios en España, la recomendación de compra de Goldman Sachs sobre Puig y la autorización de la CNMV a la oferta de BBVA sobre Sabadell. Nuevo episodio cada dia laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:12</strong> &mdash; Crudo en máximos: escalada geopolítica y tres mecanismos de transmisión</li>
+  <li><strong>1:37</strong> &mdash; Decisión del BCE el jueves: subida de tipos y efectos en hipotecas y bonos</li>
+  <li><strong>2:07</strong> &mdash; Precios de vivienda: máximo histórico desde 2007 en plena subida de tipos</li>
+  <li><strong>5:17</strong> &mdash; Goldman Sachs recomienda compra en Puig tras fracaso de fusión</li>
+  <li><strong>6:35</strong> &mdash; Regulación: CNMV autoriza oferta de BBVA sobre Sabadell y Soltec retoma cotización</li>
+  <li><strong>7:26</strong> &mdash; Caída tecnológica global y recalibración de valoraciones</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#petróleoBrent #BancoCentralEuropeo #tiposdeinterés #euríbor #inflación</em></p>]]></content:encoded>
+      <itunes:summary>El petróleo se acerca a los cien dólares por barril tras la escalada geopolítica en Oriente Medio, presionando la inflación justo cuando el Banco Central Europeo se prepara para subir tipos el jueves. Analizamos los tres mecanismos de transmisión que afectan a hipotecas, renta fija y tecnología global. También revisamos la explosión de precios inmobiliarios en España, la recomendación de compra de Goldman Sachs sobre Puig y la autorización de la CNMV a la oferta de BBVA sobre Sabadell. Nuevo episodio cada dia laborable.</itunes:summary>
+      <pubDate>Mon, 08 Jun 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260608-12d96a63/letra-pequena-2026-06-08.mp3" length="16592297" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260608</guid>
+      <itunes:duration>11:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260608.jpg"/>
+      <itunes:keywords>petróleo Brent, Banco Central Europeo, tipos de interés, euríbor, inflación, tecnología, hipotecas, geopolítica Oriente Medio</itunes:keywords>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>El capital se reposiciona: Bitcoin cae mientras la IA y SpaceX absorben inversión</title>
       <itunes:title>El capital se reposiciona: Bitcoin cae mientras la IA y SpaceX absorben inversión</itunes:title>
