@@ -9,7 +9,7 @@
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
     <copyright>(c) 2026 Letra Pequena</copyright>
-    <lastBuildDate>Mon, 08 Jun 2026 09:15:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:15:16 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
     <itunes:author>Letra Pequena</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
@@ -24,6 +24,44 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>El BCE en la encrucijada: costes laborales, vivienda y la frágil tregua geopolítica</title>
+      <itunes:title>El BCE en la encrucijada: costes laborales, vivienda y la frágil tregua geopolítica</itunes:title>
+      <itunes:subtitle>Petróleo cede tras tregua Israel-Irán; semiconductores rebotan. Tres decisiones en ocho días definirán el verano.</itunes:subtitle>
+      <description><![CDATA[<p>La economía española envía señales contradictorias. Los costes laborales suben un 4,9% anual, presionando la inflación de servicios justo antes de la reunión del BCE del jueves. Los precios de vivienda alcanzan máximos desde 2007, mientras las ejecuciones hipotecarias se aceleran un 20%. En los mercados, el petróleo cede tras la tregua entre Israel e Irán, pero el Estrecho de Ormuz sigue siendo un punto de tensión. Los semiconductores rebotan tras las caídas del lunes, impulsados por las salidas a bolsa de OpenAI y SpaceX. Oracle publica resultados mañana. El dato de inflación americana de hoy y la decisión del BCE del jueves definirán el tono hasta la reunión de la Fed del 17 de junio. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:12</strong> &mdash; Petróleo cede tras tregua Israel-Irán; Estrecho de Ormuz sigue tenso</li>
+  <li><strong>0:42</strong> &mdash; Semiconductores rebotan; OpenAI anuncia salida a bolsa valorada en billón de dólares</li>
+  <li><strong>1:12</strong> &mdash; Costes laborales españoles y la decisión del BCE del jueves</li>
+  <li><strong>1:42</strong> &mdash; Secuencia crítica: inflación americana mañana, BCE el jueves, Fed el 17 de junio</li>
+  <li><strong>2:12</strong> &mdash; Vivienda, ejecuciones hipotecarias y presión sobre el euríbor</li>
+  <li><strong>3:21</strong> &mdash; Ibex en máximos históricos: Indra cae por incertidumbre en defensa</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #costeslaborales #preciosvivienda #euríbor #petróleo</em></p>]]></description>
+      <content:encoded><![CDATA[<p>La economía española envía señales contradictorias. Los costes laborales suben un 4,9% anual, presionando la inflación de servicios justo antes de la reunión del BCE del jueves. Los precios de vivienda alcanzan máximos desde 2007, mientras las ejecuciones hipotecarias se aceleran un 20%. En los mercados, el petróleo cede tras la tregua entre Israel e Irán, pero el Estrecho de Ormuz sigue siendo un punto de tensión. Los semiconductores rebotan tras las caídas del lunes, impulsados por las salidas a bolsa de OpenAI y SpaceX. Oracle publica resultados mañana. El dato de inflación americana de hoy y la decisión del BCE del jueves definirán el tono hasta la reunión de la Fed del 17 de junio. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:12</strong> &mdash; Petróleo cede tras tregua Israel-Irán; Estrecho de Ormuz sigue tenso</li>
+  <li><strong>0:42</strong> &mdash; Semiconductores rebotan; OpenAI anuncia salida a bolsa valorada en billón de dólares</li>
+  <li><strong>1:12</strong> &mdash; Costes laborales españoles y la decisión del BCE del jueves</li>
+  <li><strong>1:42</strong> &mdash; Secuencia crítica: inflación americana mañana, BCE el jueves, Fed el 17 de junio</li>
+  <li><strong>2:12</strong> &mdash; Vivienda, ejecuciones hipotecarias y presión sobre el euríbor</li>
+  <li><strong>3:21</strong> &mdash; Ibex en máximos históricos: Indra cae por incertidumbre en defensa</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #costeslaborales #preciosvivienda #euríbor #petróleo</em></p>]]></content:encoded>
+      <itunes:summary>La economía española envía señales contradictorias. Los costes laborales suben un 4,9% anual, presionando la inflación de servicios justo antes de la reunión del BCE del jueves. Los precios de vivienda alcanzan máximos desde 2007, mientras las ejecuciones hipotecarias se aceleran un 20%. En los mercados, el petróleo cede tras la tregua entre Israel e Irán, pero el Estrecho de Ormuz sigue siendo un punto de tensión. Los semiconductores rebotan tras las caídas del lunes, impulsados por las salidas a bolsa de OpenAI y SpaceX. Oracle publica resultados mañana. El dato de inflación americana de hoy y la decisión del BCE del jueves definirán el tono hasta la reunión de la Fed del 17 de junio. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Tue, 09 Jun 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260609-fda7c6e0/letra-pequena-2026-06-09.mp3" length="22509186" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260609</guid>
+      <itunes:duration>15:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260609.jpg"/>
+      <itunes:keywords>Banco Central Europeo, costes laborales, precios vivienda, euríbor, petróleo, semiconductores, inflación americana, hipotecas</itunes:keywords>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Petróleo, tipos y tecnología: la cadena que mueve todo</title>
       <itunes:title>Petróleo, tipos y tecnología: la cadena que mueve todo</itunes:title>
