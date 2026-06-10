@@ -9,7 +9,7 @@
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
     <copyright>(c) 2026 Letra Pequena</copyright>
-    <lastBuildDate>Tue, 09 Jun 2026 08:15:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:29:06 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
     <itunes:author>Letra Pequena</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
@@ -24,6 +24,42 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>La inflación americana decide el rumbo de los tipos y las bolsas</title>
+      <itunes:title>La inflación americana decide el rumbo de los tipos y las bolsas</itunes:title>
+      <itunes:subtitle>El dato de mayo llega con el Ibex en máximos históricos y la geopolítica presionando la energía</itunes:subtitle>
+      <description><![CDATA[<p>El dato de inflación general americana de mayo se publica esta tarde como el evento más crítico para los mercados en meses. El mercado espera que supere el cuatro punto dos por ciento, lo que reforzaría el escenario de tipos altos durante más tiempo. Analizamos las implicaciones para la renta variable global, el Ibex en camino a los veinte mil puntos, la tensión geopolítica en el Estrecho de Ormuz que alimenta la energía cara, la cancelación del programa europeo de defensa FCAS, y la ola de salidas a bolsa que llega con SpaceX. Mañana llega la decisión del Banco Central Europeo. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:12</strong> &mdash; El dato de inflación americana de mayo: el evento crítico del día</li>
+  <li><strong>0:42</strong> &mdash; Geopolítica y energía: el Estrecho de Ormuz como comodín</li>
+  <li><strong>2:19</strong> &mdash; El Ibex rompe históricos con objetivo en veinte mil puntos</li>
+  <li><strong>4:58</strong> &mdash; FCAS cancelado: Europa fragmenta su defensa por cien mil millones</li>
+  <li><strong>7:02</strong> &mdash; El oro se corrige, SpaceX debuta, y el BCE decide mañana</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#inflaciónamericana #ReservaFederal #tiposdeinterés #Ibexveintemilpuntos #BancoCentralEuropeo</em></p>]]></description>
+      <content:encoded><![CDATA[<p>El dato de inflación general americana de mayo se publica esta tarde como el evento más crítico para los mercados en meses. El mercado espera que supere el cuatro punto dos por ciento, lo que reforzaría el escenario de tipos altos durante más tiempo. Analizamos las implicaciones para la renta variable global, el Ibex en camino a los veinte mil puntos, la tensión geopolítica en el Estrecho de Ormuz que alimenta la energía cara, la cancelación del programa europeo de defensa FCAS, y la ola de salidas a bolsa que llega con SpaceX. Mañana llega la decisión del Banco Central Europeo. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:12</strong> &mdash; El dato de inflación americana de mayo: el evento crítico del día</li>
+  <li><strong>0:42</strong> &mdash; Geopolítica y energía: el Estrecho de Ormuz como comodín</li>
+  <li><strong>2:19</strong> &mdash; El Ibex rompe históricos con objetivo en veinte mil puntos</li>
+  <li><strong>4:58</strong> &mdash; FCAS cancelado: Europa fragmenta su defensa por cien mil millones</li>
+  <li><strong>7:02</strong> &mdash; El oro se corrige, SpaceX debuta, y el BCE decide mañana</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#inflaciónamericana #ReservaFederal #tiposdeinterés #Ibexveintemilpuntos #BancoCentralEuropeo</em></p>]]></content:encoded>
+      <itunes:summary>El dato de inflación general americana de mayo se publica esta tarde como el evento más crítico para los mercados en meses. El mercado espera que supere el cuatro punto dos por ciento, lo que reforzaría el escenario de tipos altos durante más tiempo. Analizamos las implicaciones para la renta variable global, el Ibex en camino a los veinte mil puntos, la tensión geopolítica en el Estrecho de Ormuz que alimenta la energía cara, la cancelación del programa europeo de defensa FCAS, y la ola de salidas a bolsa que llega con SpaceX. Mañana llega la decisión del Banco Central Europeo. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Wed, 10 Jun 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260610-00af5527/letra-pequena-2026-06-10.mp3" length="18500282" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260610</guid>
+      <itunes:duration>12:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260610.jpg"/>
+      <itunes:keywords>inflación americana, Reserva Federal, tipos de interés, Ibex veinte mil puntos, Banco Central Europeo, Estrecho de Ormuz, FCAS cancelado, SpaceX salida a bolsa</itunes:keywords>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>El BCE en la encrucijada: costes laborales, vivienda y la frágil tregua geopolítica</title>
       <itunes:title>El BCE en la encrucijada: costes laborales, vivienda y la frágil tregua geopolítica</itunes:title>
