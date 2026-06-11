@@ -9,7 +9,7 @@
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
     <copyright>(c) 2026 Letra Pequena</copyright>
-    <lastBuildDate>Wed, 10 Jun 2026 08:29:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 09:09:52 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
     <itunes:author>Letra Pequena</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
@@ -24,6 +24,42 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>El BCE sube tipos mientras el petróleo dispara la inflación global</title>
+      <itunes:title>El BCE sube tipos mientras el petróleo dispara la inflación global</itunes:title>
+      <itunes:subtitle>Primera alza en tres años en medio de cierre del Estrecho de Ormuz e inflación americana al 4,2%</itunes:subtitle>
+      <description><![CDATA[<p>El Banco Central Europeo ha subido tipos de interés por primera vez en casi tres años, en respuesta a un entorno de inflación disparada y tensión geopolítica. El cierre del Estrecho de Ormuz ha empujado el petróleo cerca de los 90 dólares, mientras la inflación americana marca el 4,2%. Analizamos cómo estos movimientos afectan a tu hipoteca, tu cartera y la economía española. También abordamos la salida a bolsa de SpaceX, los récords en precios de vivienda, los retrasos en programas de defensa y la volatilidad de las criptomonedas. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:12</strong> &mdash; Inflación americana al 4,2%: presión sobre la Fed</li>
+  <li><strong>0:23</strong> &mdash; La decisión del BCE: primera subida en tres años</li>
+  <li><strong>0:53</strong> &mdash; Cierre del Estrecho de Ormuz y petróleo en 90 dólares</li>
+  <li><strong>5:34</strong> &mdash; Vivienda en España: máximos desde 2007 y divergencia territorial</li>
+  <li><strong>6:35</strong> &mdash; Operaciones corporativas y tensiones del mercado</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BCEtiposdeinterés #inflaciónamericana #EstrechodeOrmuz #petróleo90dólares #hipotecavariable</em></p>]]></description>
+      <content:encoded><![CDATA[<p>El Banco Central Europeo ha subido tipos de interés por primera vez en casi tres años, en respuesta a un entorno de inflación disparada y tensión geopolítica. El cierre del Estrecho de Ormuz ha empujado el petróleo cerca de los 90 dólares, mientras la inflación americana marca el 4,2%. Analizamos cómo estos movimientos afectan a tu hipoteca, tu cartera y la economía española. También abordamos la salida a bolsa de SpaceX, los récords en precios de vivienda, los retrasos en programas de defensa y la volatilidad de las criptomonedas. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:12</strong> &mdash; Inflación americana al 4,2%: presión sobre la Fed</li>
+  <li><strong>0:23</strong> &mdash; La decisión del BCE: primera subida en tres años</li>
+  <li><strong>0:53</strong> &mdash; Cierre del Estrecho de Ormuz y petróleo en 90 dólares</li>
+  <li><strong>5:34</strong> &mdash; Vivienda en España: máximos desde 2007 y divergencia territorial</li>
+  <li><strong>6:35</strong> &mdash; Operaciones corporativas y tensiones del mercado</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BCEtiposdeinterés #inflaciónamericana #EstrechodeOrmuz #petróleo90dólares #hipotecavariable</em></p>]]></content:encoded>
+      <itunes:summary>El Banco Central Europeo ha subido tipos de interés por primera vez en casi tres años, en respuesta a un entorno de inflación disparada y tensión geopolítica. El cierre del Estrecho de Ormuz ha empujado el petróleo cerca de los 90 dólares, mientras la inflación americana marca el 4,2%. Analizamos cómo estos movimientos afectan a tu hipoteca, tu cartera y la economía española. También abordamos la salida a bolsa de SpaceX, los récords en precios de vivienda, los retrasos en programas de defensa y la volatilidad de las criptomonedas. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Thu, 11 Jun 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260611-7310f8c5/letra-pequena-2026-06-11.mp3" length="24257996" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260611</guid>
+      <itunes:duration>16:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260611.jpg"/>
+      <itunes:keywords>BCE tipos de interés, inflación americana, Estrecho de Ormuz, petróleo 90 dólares, hipoteca variable, Euribor, SpaceX IPO, mercado inmobiliario España</itunes:keywords>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>La inflación americana decide el rumbo de los tipos y las bolsas</title>
       <itunes:title>La inflación americana decide el rumbo de los tipos y las bolsas</itunes:title>
