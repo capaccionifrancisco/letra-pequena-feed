@@ -9,7 +9,7 @@
     <atom:link href="https://capaccionifrancisco.github.io/letra-pequena-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>es-ES</language>
     <copyright>(c) 2026 Letra Pequena</copyright>
-    <lastBuildDate>Thu, 11 Jun 2026 09:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 08:57:57 +0000</lastBuildDate>
     <description>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</description>
     <itunes:author>Letra Pequena</itunes:author>
     <itunes:summary>Letra Pequeña es el primer podcast diario AI-native sobre actualidad financiera en castellano. Cada día procesa más de 13 fuentes globales e institucionales —Banco Central Europeo, Reserva Federal, CNMV, Banco de España, INE, mercados internacionales, prensa económica— y destila lo que importa al inversor retail español en menos de diez minutos. El volumen de información que mueve cada día un inversor particular excede lo que cualquier redacción puede procesar. La IA sí puede. Nuevo episodio cada día laborable.</itunes:summary>
@@ -24,6 +24,52 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>El BCE sube tipos mientras la paz en Oriente Próximo hunde el petróleo</title>
+      <itunes:title>El BCE sube tipos mientras la paz en Oriente Próximo hunde el petróleo</itunes:title>
+      <itunes:subtitle>Tres fechas clave cierran la semana: inflación, decisión del banco central y debut de SpaceX</itunes:subtitle>
+      <description><![CDATA[<p>Esta semana se cerraba con tres fechas cruciales para los mercados. El Banco Central Europeo subió tipos por primera vez en casi tres años, la inflación americana resistió por encima del cuatro por ciento, y SpaceX debutó en bolsa con la mayor capitalización de la historia. Pero el movimiento más llamativo llegó cuando Trump suspendió los bombardeos contra Irán, hundiendo el petróleo y aliviando la presión inflacionista que había justificado la decisión del BCE. Analizamos cómo estas fuerzas enfrentadas afectan a tu cartera, desde las hipotecas hasta la banca española, pasando por la fusión de BBVA y Sabadell. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:16</strong> &mdash; Petróleo cae por expectativa de acuerdo entre EE.UU. e Irán</li>
+  <li><strong>0:46</strong> &mdash; Oro cae en medio de guerra: falla como activo refugio</li>
+  <li><strong>1:16</strong> &mdash; Reserva Federal mantiene pausa de tipos el martes 17 de junio</li>
+  <li><strong>2:00</strong> &mdash; La subida de tipos del BCE y sus implicaciones</li>
+  <li><strong>3:12</strong> &mdash; Impacto en hipotecas, bonos y banca española</li>
+  <li><strong>3:31</strong> &mdash; BBVA adquiere Sabadell: luz verde regulatoria</li>
+  <li><strong>4:01</strong> &mdash; Inflación española se resiste y sube en componente subyacente</li>
+  <li><strong>7:51</strong> &mdash; SpaceX debuta en Nasdaq con capitalización histórica</li>
+  <li><strong>8:28</strong> &mdash; Criptomonedas permanecen neutras sin catalizadores propios</li>
+  <li><strong>9:17</strong> &mdash; Acciona Energía atrae interés de Brookfield y KKR</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #subidadetipos #inflacióneurozona #petróleo #OrientePróximo</em></p>]]></description>
+      <content:encoded><![CDATA[<p>Esta semana se cerraba con tres fechas cruciales para los mercados. El Banco Central Europeo subió tipos por primera vez en casi tres años, la inflación americana resistió por encima del cuatro por ciento, y SpaceX debutó en bolsa con la mayor capitalización de la historia. Pero el movimiento más llamativo llegó cuando Trump suspendió los bombardeos contra Irán, hundiendo el petróleo y aliviando la presión inflacionista que había justificado la decisión del BCE. Analizamos cómo estas fuerzas enfrentadas afectan a tu cartera, desde las hipotecas hasta la banca española, pasando por la fusión de BBVA y Sabadell. Nuevo episodio cada día laborable.</p>
+<p><strong>Bloques del episodio</strong></p>
+<ul>
+  <li><strong>0:16</strong> &mdash; Petróleo cae por expectativa de acuerdo entre EE.UU. e Irán</li>
+  <li><strong>0:46</strong> &mdash; Oro cae en medio de guerra: falla como activo refugio</li>
+  <li><strong>1:16</strong> &mdash; Reserva Federal mantiene pausa de tipos el martes 17 de junio</li>
+  <li><strong>2:00</strong> &mdash; La subida de tipos del BCE y sus implicaciones</li>
+  <li><strong>3:12</strong> &mdash; Impacto en hipotecas, bonos y banca española</li>
+  <li><strong>3:31</strong> &mdash; BBVA adquiere Sabadell: luz verde regulatoria</li>
+  <li><strong>4:01</strong> &mdash; Inflación española se resiste y sube en componente subyacente</li>
+  <li><strong>7:51</strong> &mdash; SpaceX debuta en Nasdaq con capitalización histórica</li>
+  <li><strong>8:28</strong> &mdash; Criptomonedas permanecen neutras sin catalizadores propios</li>
+  <li><strong>9:17</strong> &mdash; Acciona Energía atrae interés de Brookfield y KKR</li>
+</ul>
+<p>Sig&uacute;enos para no perderte ning&uacute;n episodio. Nuevo cap&iacute;tulo cada d&iacute;a laborable a primera hora.</p><p><em>#BancoCentralEuropeo #subidadetipos #inflacióneurozona #petróleo #OrientePróximo</em></p>]]></content:encoded>
+      <itunes:summary>Esta semana se cerraba con tres fechas cruciales para los mercados. El Banco Central Europeo subió tipos por primera vez en casi tres años, la inflación americana resistió por encima del cuatro por ciento, y SpaceX debutó en bolsa con la mayor capitalización de la historia. Pero el movimiento más llamativo llegó cuando Trump suspendió los bombardeos contra Irán, hundiendo el petróleo y aliviando la presión inflacionista que había justificado la decisión del BCE. Analizamos cómo estas fuerzas enfrentadas afectan a tu cartera, desde las hipotecas hasta la banca española, pasando por la fusión de BBVA y Sabadell. Nuevo episodio cada día laborable.</itunes:summary>
+      <pubDate>Fri, 12 Jun 2026 07:00:00 +0200</pubDate>
+      <enclosure url="https://github.com/capaccionifrancisco/letra-pequena-feed/releases/download/20260612-466e7804/letra-pequena-2026-06-12.mp3" length="23685769" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://capaccionifrancisco.github.io/letra-pequena-feed/episodios/20260612</guid>
+      <itunes:duration>16:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Letra Pequena</itunes:author>
+      <itunes:image href="https://capaccionifrancisco.github.io/letra-pequena-feed/portadas/20260612.jpg"/>
+      <itunes:keywords>Banco Central Europeo, subida de tipos, inflación eurozona, petróleo, Oriente Próximo, BBVA Sabadell, SpaceX Nasdaq</itunes:keywords>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>El BCE sube tipos mientras el petróleo dispara la inflación global</title>
       <itunes:title>El BCE sube tipos mientras el petróleo dispara la inflación global</itunes:title>
